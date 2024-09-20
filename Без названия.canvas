@@ -1,7 +1,24 @@
 {
 	"nodes":[
-		{"id":"640f4012d2774b7c","x":-540,"y":-360,"width":360,"height":140,"type":"text","text":"Критики"},
-		{"id":"21b9a5c054cbf5b7","type":"text","text":"Литература - абсолют","x":-485,"y":-305,"width":250,"height":50}
+		{"id":"640f4012d2774b7c","x":-580,"y":-360,"width":420,"height":160,"color":"2","type":"text","text":"Критики"},
+		{"id":"21b9a5c054cbf5b7","type":"text","text":"Литература - абсолют","x":-485,"y":-340,"width":250,"height":50},
+		{"id":"b262532f124da987","x":-485,"y":-280,"width":250,"height":60,"type":"text","text":"Российская литература питательнее зарубежной"},
+		{"id":"926ff28f8f55c715","x":-740,"y":-89,"width":300,"height":249,"color":"3","type":"text","text":"Славянофилы"},
+		{"id":"08681bd8c2017cb1","x":-300,"y":-89,"width":320,"height":329,"color":"1","type":"text","text":"Западники"},
+		{"id":"b44cf4ea58c0eb8b","x":-715,"y":-34,"width":250,"height":60,"type":"text","text":"Отрицали Петровские реформы и осуждали их"},
+		{"id":"657abcb3db687a2d","x":-715,"y":40,"width":250,"height":100,"type":"text","text":"Считали, что Пётр I насильно европеизировал Россию"},
+		{"id":"bcb5d33dfd550071","type":"text","text":"Считали, что Россия родилась только после Петра I","x":-267,"y":40,"width":250,"height":100},
+		{"id":"2b68fd8a3531c6eb","type":"text","text":"Поддерживали Петровские реформы","x":-267,"y":-34,"width":250,"height":60},
+		{"id":"c1f5fba43b83f308","type":"text","text":"Топили за Запад, подражая ему","x":-267,"y":160,"width":250,"height":60},
+		{"id":"e12f50dc80b122be","x":-465,"y":347,"width":290,"height":60,"color":"#e51515","type":"text","text":"Революционеры-демократы"},
+		{"id":"bf9b18027abee00f","x":-120,"y":347,"width":280,"height":373,"color":"5","type":"text","text":"Либеральные западники"},
+		{"id":"46ce76765e8af63d","x":-105,"y":407,"width":250,"height":133,"type":"text","text":"Топили за объективизацию персонажей в литературе"},
+		{"id":"4c43159b9c8531fa","x":-105,"y":560,"width":250,"height":60,"type":"text","text":"Стремились описать художественность"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"6070134287705360","fromNode":"640f4012d2774b7c","fromSide":"bottom","toNode":"926ff28f8f55c715","toSide":"top","color":"2"},
+		{"id":"dd7c9a74a6f669f1","fromNode":"640f4012d2774b7c","fromSide":"bottom","toNode":"08681bd8c2017cb1","toSide":"top","color":"2"},
+		{"id":"a6a3ed467343fe62","fromNode":"08681bd8c2017cb1","fromSide":"bottom","toNode":"e12f50dc80b122be","toSide":"top","color":"1"},
+		{"id":"de90121d34b772ec","fromNode":"08681bd8c2017cb1","fromSide":"bottom","toNode":"bf9b18027abee00f","toSide":"top","color":"1"}
+	]
 }
