@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"640f4012d2774b7c","type":"text","text":"Критики","x":-740,"y":-380,"width":420,"height":180,"color":"2"},
+		{"id":"4c43159b9c8531fa","type":"text","text":"Стремились описать художественность","x":-516,"y":1854,"width":250,"height":60},
+		{"id":"4f4a56d8ce0efa86","type":"text","text":"Автор должен разбираться в своей теме","x":-528,"y":1934,"width":250,"height":94},
+		{"id":"3fdd75ce0e361ec0","type":"text","text":"Нельзя забывать про [[Выражения жизненной истины]]","x":-552,"y":2128,"width":250,"height":100},
+		{"id":"5408440ff8ae919e","type":"text","text":"Произведение должно быть жизненным","x":-504,"y":1774,"width":250,"height":60},
+		{"id":"e4198a72cce6db93","x":-440,"y":2328,"width":278,"height":60,"type":"text","text":"Дидактическое (поучение)"},
+		{"id":"59ddad58cdad6b1b","x":-424,"y":2408,"width":278,"height":60,"type":"text","text":"Артистическое (искусство)"},
+		{"id":"b262532f124da987","type":"text","text":"Российская литература питательнее зарубежной","x":-649,"y":-280,"width":250,"height":60},
+		{"id":"21b9a5c054cbf5b7","type":"text","text":"Литература - абсолют","x":-649,"y":-340,"width":250,"height":50},
+		{"id":"926ff28f8f55c715","type":"text","text":"Славянофилы","x":-920,"y":-140,"width":300,"height":280,"color":"3"},
+		{"id":"08681bd8c2017cb1","type":"text","text":"Западники","x":-467,"y":-140,"width":320,"height":329,"color":"1"},
+		{"id":"b44cf4ea58c0eb8b","type":"text","text":"Отрицали Петровские реформы и осуждали их","x":-895,"y":-75,"width":250,"height":60},
+		{"id":"2b68fd8a3531c6eb","type":"text","text":"Поддерживали Петровские реформы","x":-432,"y":-75,"width":250,"height":60},
+		{"id":"657abcb3db687a2d","type":"text","text":"Считали, что Пётр I насильно европеизировал Россию","x":-895,"y":0,"width":250,"height":100},
+		{"id":"bcb5d33dfd550071","type":"text","text":"Считали, что Россия родилась только после Петра I","x":-432,"y":0,"width":250,"height":100},
+		{"id":"c1f5fba43b83f308","type":"text","text":"Топили за Запад, подражая ему","x":-432,"y":110,"width":250,"height":60},
+		{"id":"e12f50dc80b122be","type":"text","text":"Революционеры-демократы","x":-597,"y":280,"width":290,"height":60,"color":"#e51515"},
+		{"id":"bf9b18027abee00f","type":"text","text":"Либеральные западники","x":-260,"y":280,"width":280,"height":453,"color":"5"},
+		{"id":"46ce76765e8af63d","type":"text","text":"Топили за объективизацию персонажей в литературе","x":-245,"y":340,"width":250,"height":133},
+		{"id":"4ac916488fc72224","type":"text","text":"Считали, что литература должна учить","x":-245,"y":507,"width":250,"height":60},
+		{"id":"b095c81a9e64f026","type":"text","text":"Разделили искусство на 2 части","x":-266,"y":1220,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"6070134287705360","fromNode":"640f4012d2774b7c","fromSide":"bottom","toNode":"926ff28f8f55c715","toSide":"top","color":"2"},
+		{"id":"dd7c9a74a6f669f1","fromNode":"640f4012d2774b7c","fromSide":"bottom","toNode":"08681bd8c2017cb1","toSide":"top","color":"2"},
+		{"id":"a6a3ed467343fe62","fromNode":"08681bd8c2017cb1","fromSide":"bottom","toNode":"e12f50dc80b122be","toSide":"top","color":"1"},
+		{"id":"de90121d34b772ec","fromNode":"08681bd8c2017cb1","fromSide":"bottom","toNode":"bf9b18027abee00f","toSide":"top","color":"1"},
+		{"id":"b479539df111fc56","fromNode":"4c43159b9c8531fa","fromSide":"right","toNode":"5408440ff8ae919e","toSide":"left"},
+		{"id":"ef298293145cc31e","fromNode":"4c43159b9c8531fa","fromSide":"right","toNode":"4f4a56d8ce0efa86","toSide":"left"},
+		{"id":"6388b6381ffda0ec","fromNode":"4c43159b9c8531fa","fromSide":"right","toNode":"3fdd75ce0e361ec0","toSide":"left"},
+		{"id":"071a96fac2da4bab","fromNode":"b095c81a9e64f026","fromSide":"right","toNode":"e4198a72cce6db93","toSide":"left"},
+		{"id":"73dc4e696f50f410","fromNode":"b095c81a9e64f026","fromSide":"right","toNode":"59ddad58cdad6b1b","toSide":"left"}
+	]
+}
