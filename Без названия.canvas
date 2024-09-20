@@ -14,13 +14,19 @@
 		{"id":"bf9b18027abee00f","type":"text","text":"Либеральные западники","x":-120,"y":347,"width":280,"height":453,"color":"5"},
 		{"id":"46ce76765e8af63d","type":"text","text":"Топили за объективизацию персонажей в литературе","x":-105,"y":407,"width":250,"height":133},
 		{"id":"4c43159b9c8531fa","type":"text","text":"Стремились описать художественность","x":-105,"y":560,"width":250,"height":60},
-		{"id":"4ac916488fc72224","x":-105,"y":640,"width":250,"height":60,"type":"text","text":"Считали, что литература должна учить"},
-		{"id":"b095c81a9e64f026","x":-105,"y":720,"width":250,"height":60,"type":"text","text":"Разделили искусство на 2 части"}
+		{"id":"4ac916488fc72224","type":"text","text":"Считали, что литература должна учить","x":-105,"y":640,"width":250,"height":60},
+		{"id":"b095c81a9e64f026","type":"text","text":"Разделили искусство на 2 части","x":-105,"y":720,"width":250,"height":60},
+		{"id":"4f4a56d8ce0efa86","x":222,"y":520,"width":250,"height":94,"type":"text","text":"Автор должен разбираться в своей теме"},
+		{"id":"3fdd75ce0e361ec0","x":222,"y":620,"width":250,"height":100,"type":"text","text":"Нельзя забывать про [[Выражения жизненной истины]]"},
+		{"id":"5408440ff8ae919e","x":222,"y":444,"width":250,"height":60,"type":"text","text":"Произведение должно быть жизненным"}
 	],
 	"edges":[
 		{"id":"6070134287705360","fromNode":"640f4012d2774b7c","fromSide":"bottom","toNode":"926ff28f8f55c715","toSide":"top","color":"2"},
 		{"id":"dd7c9a74a6f669f1","fromNode":"640f4012d2774b7c","fromSide":"bottom","toNode":"08681bd8c2017cb1","toSide":"top","color":"2"},
 		{"id":"a6a3ed467343fe62","fromNode":"08681bd8c2017cb1","fromSide":"bottom","toNode":"e12f50dc80b122be","toSide":"top","color":"1"},
-		{"id":"de90121d34b772ec","fromNode":"08681bd8c2017cb1","fromSide":"bottom","toNode":"bf9b18027abee00f","toSide":"top","color":"1"}
+		{"id":"de90121d34b772ec","fromNode":"08681bd8c2017cb1","fromSide":"bottom","toNode":"bf9b18027abee00f","toSide":"top","color":"1"},
+		{"id":"b479539df111fc56","fromNode":"4c43159b9c8531fa","fromSide":"right","toNode":"5408440ff8ae919e","toSide":"left"},
+		{"id":"ef298293145cc31e","fromNode":"4c43159b9c8531fa","fromSide":"right","toNode":"4f4a56d8ce0efa86","toSide":"left"},
+		{"id":"6388b6381ffda0ec","fromNode":"4c43159b9c8531fa","fromSide":"right","toNode":"3fdd75ce0e361ec0","toSide":"left"}
 	]
 }
