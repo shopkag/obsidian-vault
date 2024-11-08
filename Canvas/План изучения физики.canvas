@@ -41,19 +41,6 @@
       "color": "#4531e3"
     },
     {
-      "id": "3ecc7db6e2a86172",
-      "type": "text",
-      "text": "Электромагнетизм",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 510,
-      "y": -2050,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
       "id": "90bcdb78e284fcea",
       "type": "text",
       "text": "[[Давление (физика)]]",
@@ -145,58 +132,6 @@
       "color": "2"
     },
     {
-      "id": "16c9c0225a1eb7c2",
-      "type": "text",
-      "text": "[[Энергия (физика)]]",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -720,
-      "y": -2940,
-      "width": 260,
-      "height": 60,
-      "color": "2"
-    },
-    {
-      "id": "bc0996b96c025af0",
-      "type": "text",
-      "text": "[[Кинетическая энергия (физика)]]",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -1140,
-      "y": -2860,
-      "width": 280,
-      "height": 60,
-      "color": "2"
-    },
-    {
-      "id": "15bef43d803f4cb9",
-      "type": "text",
-      "text": "[[Потенциальная энергия (физика)]]",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -1140,
-      "y": -3020,
-      "width": 280,
-      "height": 60,
-      "color": "2"
-    },
-    {
-      "id": "40c4e3eee96ecead",
-      "type": "text",
-      "text": "Механика",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -400,
-      "y": -2780,
-      "width": 260,
-      "height": 60,
-      "color": "2"
-    },
-    {
       "id": "eed2e9fb4f6847f5",
       "type": "text",
       "text": "Гидростатика",
@@ -249,16 +184,237 @@
       "color": "#e6c700"
     },
     {
+      "id": "3ecc7db6e2a86172",
+      "type": "text",
+      "text": "Электромагнетизм",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 510,
+      "y": -1680,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "16c9c0225a1eb7c2",
+      "type": "text",
+      "text": "[[Энергия (физика)]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -720,
+      "y": -3200,
+      "width": 260,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "bc0996b96c025af0",
+      "type": "text",
+      "text": "[[Кинетическая энергия (физика)]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1140,
+      "y": -3120,
+      "width": 280,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "15bef43d803f4cb9",
+      "type": "text",
+      "text": "[[Потенциальная энергия (физика)]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1140,
+      "y": -3280,
+      "width": 280,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "40c4e3eee96ecead",
+      "type": "text",
+      "text": "Механика",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -400,
+      "y": -2940,
+      "width": 260,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "fe2283faf743902a",
+      "type": "text",
+      "text": "[[Масса (физика)]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -720,
+      "y": -2940,
+      "width": 260,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "0eae2d01c4aae321",
+      "type": "text",
+      "text": "[[Сила (физика)]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1060,
+      "y": -2940,
+      "width": 260,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "fa5d4f5cf492758b",
+      "type": "text",
+      "text": "[[Вес (физика)]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1060,
+      "y": -2860,
+      "width": 260,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "4fa61f54c581a133",
+      "type": "text",
+      "text": "[[Рычаг (физика)]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1480,
+      "y": -2910,
+      "width": 260,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "e93ab3f227fcc188",
+      "type": "text",
+      "text": "[[Температура (физика)]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 820,
+      "y": -2520,
+      "width": 260,
+      "height": 60,
+      "color": "#e10505"
+    },
+    {
+      "id": "65c9c0f73490129d",
+      "type": "text",
+      "text": "[[Теплопроводность (физика)]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 1960,
+      "y": -2743,
+      "width": 260,
+      "height": 68,
+      "color": "#e10505"
+    },
+    {
       "id": "d605d8772bb06d7f",
       "type": "text",
       "text": "[[Внутренняя энергия (физика)]]",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "x": 840,
-      "y": -2480,
+      "x": 1160,
+      "y": -2692,
       "width": 260,
-      "height": 60,
+      "height": 68,
+      "color": "#e10505"
+    },
+    {
+      "id": "5a4369e4e8c4f7d3",
+      "type": "text",
+      "text": "[[Теплопередача (физика)]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 1640,
+      "y": -2630,
+      "width": 260,
+      "height": 68,
+      "color": "#e10505"
+    },
+    {
+      "id": "75e03cee6a2f037a",
+      "type": "text",
+      "text": "[[Конвекция (физика)]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 1960,
+      "y": -2630,
+      "width": 260,
+      "height": 68,
+      "color": "#e10505"
+    },
+    {
+      "id": "f7ca1e25a965e8a6",
+      "type": "text",
+      "text": "[[Излучение (физика)]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 1960,
+      "y": -2528,
+      "width": 260,
+      "height": 68,
+      "color": "#e10505"
+    },
+    {
+      "id": "527860806f2aca5e",
+      "type": "text",
+      "text": "[[Масса (физика)]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 1640,
+      "y": -2418,
+      "width": 260,
+      "height": 68,
+      "color": "#e10505"
+    },
+    {
+      "id": "0494044f434fa0bf",
+      "type": "text",
+      "text": "[[Удельная теплоёмкость (физика)]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 1640,
+      "y": -2292,
+      "width": 260,
+      "height": 68,
+      "color": "#e10505"
+    },
+    {
+      "id": "457512bec87fe658",
+      "type": "text",
+      "text": "Разность температур",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 1640,
+      "y": -2168,
+      "width": 260,
+      "height": 68,
       "color": "#e10505"
     },
     {
@@ -268,10 +424,10 @@
       "styleAttributes": {
         "textAlign": "center"
       },
-      "x": 840,
-      "y": -2380,
+      "x": 1160,
+      "y": -2292,
       "width": 260,
-      "height": 60,
+      "height": 68,
       "color": "#e10505"
     }
   ],
@@ -488,17 +644,6 @@
       "color": "2"
     },
     {
-      "id": "198f3c9a9b0f27da",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "fromNode": "8f8c7081d71900fb",
-      "fromSide": "right",
-      "toNode": "d605d8772bb06d7f",
-      "toSide": "left",
-      "color": "#990f0f"
-    },
-    {
       "id": "b08339178caededc",
       "styleAttributes": {
         "pathfindingMethod": "square",
@@ -510,6 +655,149 @@
       "toNode": "8214d59645dd14c6",
       "toSide": "top",
       "color": "#7b1313"
+    },
+    {
+      "id": "f8e7dbca1b7f26fd",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "d605d8772bb06d7f",
+      "fromSide": "right",
+      "toNode": "5a4369e4e8c4f7d3",
+      "toSide": "left",
+      "color": "#aa0d0d"
+    },
+    {
+      "id": "4a140102b00beec3",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "5a4369e4e8c4f7d3",
+      "fromSide": "right",
+      "toNode": "65c9c0f73490129d",
+      "toSide": "left",
+      "color": "#8d1111"
+    },
+    {
+      "id": "329c49eb9762b810",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "5a4369e4e8c4f7d3",
+      "fromSide": "right",
+      "toNode": "75e03cee6a2f037a",
+      "toSide": "left",
+      "color": "#8d1111"
+    },
+    {
+      "id": "5f252eb570a2603f",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "5a4369e4e8c4f7d3",
+      "fromSide": "right",
+      "toNode": "f7ca1e25a965e8a6",
+      "toSide": "left",
+      "color": "#9d0f0f"
+    },
+    {
+      "id": "64aa85e7e6196f32",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "8214d59645dd14c6",
+      "fromSide": "right",
+      "toNode": "527860806f2aca5e",
+      "toSide": "left",
+      "color": "#401a1a"
+    },
+    {
+      "id": "359377243ab91fe8",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "8214d59645dd14c6",
+      "fromSide": "right",
+      "toNode": "0494044f434fa0bf",
+      "toSide": "left",
+      "color": "#5f1515"
+    },
+    {
+      "id": "1c5da644fcbe2dd9",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "8214d59645dd14c6",
+      "fromSide": "right",
+      "toNode": "457512bec87fe658",
+      "toSide": "left",
+      "color": "#5f1515"
+    },
+    {
+      "id": "e8d8a00422a77694",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "40c4e3eee96ecead",
+      "fromSide": "left",
+      "toNode": "fe2283faf743902a",
+      "toSide": "right",
+      "color": "#e9973f"
+    },
+    {
+      "id": "cbf69125f750ce63",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "fe2283faf743902a",
+      "fromSide": "left",
+      "toNode": "0eae2d01c4aae321",
+      "toSide": "right",
+      "color": "2"
+    },
+    {
+      "id": "c264c3c45eca9e55",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "0eae2d01c4aae321",
+      "fromSide": "left",
+      "toNode": "4fa61f54c581a133",
+      "toSide": "right",
+      "color": "2"
+    },
+    {
+      "id": "fac44ba91445c616",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "fa5d4f5cf492758b",
+      "fromSide": "left",
+      "toNode": "4fa61f54c581a133",
+      "toSide": "right",
+      "color": "2"
+    },
+    {
+      "id": "9e41ceca5c27c6cf",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "8f8c7081d71900fb",
+      "fromSide": "right",
+      "toNode": "e93ab3f227fcc188",
+      "toSide": "left",
+      "color": "#a70d0d"
+    },
+    {
+      "id": "84c7adfda19eaf1e",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "e93ab3f227fcc188",
+      "fromSide": "right",
+      "toNode": "d605d8772bb06d7f",
+      "toSide": "left",
+      "color": "#741414"
     }
   ],
   "metadata": {}
