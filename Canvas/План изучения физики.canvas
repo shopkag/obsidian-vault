@@ -1,0 +1,221 @@
+{
+  "nodes": [
+    {
+      "id": "71f3cc9a7e693d05",
+      "type": "text",
+      "text": "Физика",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": null
+      },
+      "x": 63,
+      "y": -2270,
+      "width": 260,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "b8c903d154a8bfad",
+      "type": "text",
+      "text": "Ядерная физика",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 63,
+      "y": -2050,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "7e87d11ba71debb8",
+      "type": "text",
+      "text": "Молекулярная физика",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 63,
+      "y": -2500,
+      "width": 260,
+      "height": 60,
+      "color": "#e6c700"
+    },
+    {
+      "id": "eed2e9fb4f6847f5",
+      "type": "text",
+      "text": "Гидростатика",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -400,
+      "y": -2270,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "40c4e3eee96ecead",
+      "type": "text",
+      "text": "Механика",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -400,
+      "y": -2500,
+      "width": 260,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "542085c910843ed4",
+      "type": "text",
+      "text": "Гидродинамика",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -400,
+      "y": -2050,
+      "width": 260,
+      "height": 60,
+      "color": "#4531e3"
+    },
+    {
+      "id": "8f8c7081d71900fb",
+      "type": "text",
+      "text": "Термодинамика",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 510,
+      "y": -2270,
+      "width": 260,
+      "height": 60,
+      "color": "#e10505"
+    },
+    {
+      "id": "590b0a6bdb4d61c3",
+      "type": "text",
+      "text": "Оптика",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 510,
+      "y": -2500,
+      "width": 260,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "3ecc7db6e2a86172",
+      "type": "text",
+      "text": "Электромагнетизм",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 510,
+      "y": -2050,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "8377ca36ddced5f3",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": -700,
+      "y": -2600,
+      "width": 260,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "fdb90059dd2fed03",
+      "styleAttributes": {
+        "path": null,
+        "pathfindingMethod": "square",
+        "arrow": null
+      },
+      "fromNode": "71f3cc9a7e693d05",
+      "fromSide": "left",
+      "toNode": "40c4e3eee96ecead",
+      "toSide": "right",
+      "color": "2"
+    },
+    {
+      "id": "f461ffe7fc11c537",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "71f3cc9a7e693d05",
+      "fromSide": "left",
+      "toNode": "eed2e9fb4f6847f5",
+      "toSide": "right",
+      "color": "5"
+    },
+    {
+      "id": "e8884b823811ba85",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "71f3cc9a7e693d05",
+      "fromSide": "left",
+      "toNode": "542085c910843ed4",
+      "toSide": "right",
+      "color": "#4531e3"
+    },
+    {
+      "id": "19bce7c61ddbeb92",
+      "styleAttributes": {},
+      "fromNode": "71f3cc9a7e693d05",
+      "fromSide": "top",
+      "toNode": "7e87d11ba71debb8",
+      "toSide": "bottom",
+      "color": "#e6c700"
+    },
+    {
+      "id": "e2f5957662f42b21",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "71f3cc9a7e693d05",
+      "fromSide": "right",
+      "toNode": "8f8c7081d71900fb",
+      "toSide": "left",
+      "color": "#e10505"
+    },
+    {
+      "id": "8be88fddfde33f51",
+      "styleAttributes": {},
+      "fromNode": "71f3cc9a7e693d05",
+      "fromSide": "bottom",
+      "toNode": "b8c903d154a8bfad",
+      "toSide": "top",
+      "color": "4"
+    },
+    {
+      "id": "66faba0c2a878814",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "71f3cc9a7e693d05",
+      "fromSide": "right",
+      "toNode": "590b0a6bdb4d61c3",
+      "toSide": "left",
+      "color": "3"
+    },
+    {
+      "id": "96b6b26feac3c0b6",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "71f3cc9a7e693d05",
+      "fromSide": "right",
+      "toNode": "3ecc7db6e2a86172",
+      "toSide": "left",
+      "color": "6"
+    }
+  ],
+  "metadata": {}
+}
