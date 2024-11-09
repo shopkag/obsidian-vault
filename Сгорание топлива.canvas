@@ -1,0 +1,161 @@
+{
+  "nodes": [
+    {
+      "id": "cb6fb0bbb2186e57",
+      "type": "text",
+      "text": "Топливо",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 460,
+      "y": -4620,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "1a62d0c719b27f61",
+      "type": "text",
+      "text": "Разделение молекул на атомы",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 460,
+      "y": -4260,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "91be43dca2d8cb28",
+      "type": "text",
+      "text": "Атомы собрались в молекулу CO2 (углекислый газ)",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 460,
+      "y": -3980,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "8823d2cf6983e6d9",
+      "type": "text",
+      "text": "Происходит [[Работа (физика)|работа]], т.е. затрачивается какая-то [[Энергия (физика)|энергия]]",
+      "styleAttributes": {
+        "border": "dashed",
+        "textAlign": "center"
+      },
+      "x": 820,
+      "y": -4460,
+      "width": 280,
+      "height": 120
+    },
+    {
+      "id": "497ef8ce6a45500f",
+      "type": "text",
+      "text": "Присутствует углерод",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": "dashed"
+      },
+      "x": 260,
+      "y": -4800,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "cf98c2b2217a653e",
+      "type": "text",
+      "text": "Происходит [[Работа (физика)|работа]], т.е. выделяется какая-то [[Энергия (физика)|энергия]]",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": "dashed"
+      },
+      "x": 120,
+      "y": -4200,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "2d83b64049a50d44",
+      "type": "text",
+      "text": "[[Энергия (физика)|Энергия]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 460,
+      "y": -3760,
+      "width": 260,
+      "height": 60,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "bedcbf22dec55fa3",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "cb6fb0bbb2186e57",
+      "fromSide": "bottom",
+      "toNode": "1a62d0c719b27f61",
+      "toSide": "top",
+      "label": "Поджигание"
+    },
+    {
+      "id": "90d9e75aab48c4e8",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "1a62d0c719b27f61",
+      "fromSide": "bottom",
+      "toNode": "91be43dca2d8cb28",
+      "toSide": "top",
+      "label": "Межатомное притяжение"
+    },
+    {
+      "id": "22ace97a0b4e0478",
+      "styleAttributes": {
+        "pathfindingMethod": "square",
+        "path": "dotted"
+      },
+      "fromNode": "8823d2cf6983e6d9",
+      "fromSide": "bottom",
+      "toNode": "1a62d0c719b27f61",
+      "toSide": "right"
+    },
+    {
+      "id": "33ef1aeabe95ff3c",
+      "styleAttributes": {
+        "pathfindingMethod": "square",
+        "path": "dotted"
+      },
+      "fromNode": "497ef8ce6a45500f",
+      "fromSide": "bottom",
+      "toNode": "cb6fb0bbb2186e57",
+      "toSide": "left"
+    },
+    {
+      "id": "eef7aaaf7ab58fcf",
+      "styleAttributes": {
+        "pathfindingMethod": "square",
+        "path": "dotted"
+      },
+      "fromNode": "cf98c2b2217a653e",
+      "fromSide": "bottom",
+      "toNode": "91be43dca2d8cb28",
+      "toSide": "left"
+    },
+    {
+      "id": "93506ec186180947",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "91be43dca2d8cb28",
+      "fromSide": "bottom",
+      "toNode": "2d83b64049a50d44",
+      "toSide": "top",
+      "color": "2"
+    }
+  ],
+  "metadata": {}
+}
