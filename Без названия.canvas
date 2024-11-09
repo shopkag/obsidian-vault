@@ -1,0 +1,269 @@
+{
+  "nodes": [
+    {
+      "id": "30bda191fd5896ca",
+      "type": "text",
+      "text": "Постоянна",
+      "styleAttributes": {
+        "border": "dashed",
+        "textAlign": "center"
+      },
+      "x": -310,
+      "y": 40,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ab1e5b5714c6d3d0",
+      "type": "text",
+      "text": "Нет сил кроме тяжести, веса, упругости",
+      "styleAttributes": {
+        "border": "dashed",
+        "textAlign": "center"
+      },
+      "x": -310,
+      "y": 180,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "d0ec5387e88ebc1a",
+      "type": "text",
+      "text": "[[Энергия (физика)|Энергия]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 40,
+      "y": -420,
+      "width": 260,
+      "height": 230,
+      "color": "2"
+    },
+    {
+      "id": "ad2f836ea02afd8a",
+      "type": "text",
+      "text": "Не появляется и не исчезает",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 40,
+      "y": -640,
+      "width": 260,
+      "height": 80,
+      "color": "2"
+    },
+    {
+      "id": "c4e8a6b7a5361a90",
+      "type": "text",
+      "text": "[[Закон сохранения энергии (физика)]]",
+      "styleAttributes": {
+        "border": "dashed",
+        "textAlign": "center"
+      },
+      "x": 380,
+      "y": -860,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "7baab1765460151c",
+      "type": "text",
+      "text": "Умеет переходить из одного вида в другой",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 380,
+      "y": -545,
+      "width": 300,
+      "height": 125,
+      "color": "2"
+    },
+    {
+      "id": "01d3f03e8322dc04",
+      "type": "text",
+      "text": "Умеет переходить от одного тела к другому",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 380,
+      "y": -285,
+      "width": 300,
+      "height": 125,
+      "color": "2"
+    },
+    {
+      "id": "6089f62f36200e7f",
+      "type": "text",
+      "text": "Количество не меняется при переходе",
+      "styleAttributes": {
+        "border": "dashed"
+      },
+      "x": 760,
+      "y": -640,
+      "width": 260,
+      "height": 80
+    },
+    {
+      "id": "83114828c215ec71",
+      "type": "text",
+      "text": "[[Потенциальная энергия (физика)|Потенциальная энергия]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -640,
+      "y": -468,
+      "width": 260,
+      "height": 87
+    },
+    {
+      "id": "38a31ac239d7c506",
+      "type": "text",
+      "text": "[[Кинетическая энергия (физика)|Кинетическая энергия]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -640,
+      "y": -242,
+      "width": 260,
+      "height": 87
+    },
+    {
+      "id": "863bc92c6f5fd7d7",
+      "type": "text",
+      "text": "[[Полная механическая энергия (физика)|Полная энергия]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -640,
+      "y": -335,
+      "width": 260,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "e04a69bb61c5ca0a",
+      "styleAttributes": {
+        "pathfindingMethod": "square",
+        "path": "dotted"
+      },
+      "fromNode": "30bda191fd5896ca",
+      "fromSide": "top",
+      "toNode": "863bc92c6f5fd7d7",
+      "toSide": "bottom"
+    },
+    {
+      "id": "85193ffce5c6918a",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "ab1e5b5714c6d3d0",
+      "fromSide": "top",
+      "toNode": "30bda191fd5896ca",
+      "toSide": "bottom"
+    },
+    {
+      "id": "781204792b146d91",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "83114828c215ec71",
+      "fromSide": "right",
+      "toNode": "d0ec5387e88ebc1a",
+      "toSide": "left"
+    },
+    {
+      "id": "ecb759de12760f0f",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "863bc92c6f5fd7d7",
+      "fromSide": "right",
+      "toNode": "d0ec5387e88ebc1a",
+      "toSide": "left"
+    },
+    {
+      "id": "242d561ec8a217dd",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "38a31ac239d7c506",
+      "fromSide": "right",
+      "toNode": "d0ec5387e88ebc1a",
+      "toSide": "left"
+    },
+    {
+      "id": "3529e477a27f320c",
+      "styleAttributes": {
+        "pathfindingMethod": "square",
+        "path": "dotted"
+      },
+      "fromNode": "c4e8a6b7a5361a90",
+      "fromSide": "bottom",
+      "toNode": "ad2f836ea02afd8a",
+      "toSide": "right"
+    },
+    {
+      "id": "f057d7aebd1e3517",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "d0ec5387e88ebc1a",
+      "fromSide": "right",
+      "toNode": "7baab1765460151c",
+      "toSide": "left"
+    },
+    {
+      "id": "51ed842c17ae26d1",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "d0ec5387e88ebc1a",
+      "fromSide": "top",
+      "toNode": "ad2f836ea02afd8a",
+      "toSide": "bottom"
+    },
+    {
+      "id": "864b4158b022d07c",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "d0ec5387e88ebc1a",
+      "fromSide": "right",
+      "toNode": "01d3f03e8322dc04",
+      "toSide": "left"
+    },
+    {
+      "id": "3ea49a6c6095b524",
+      "styleAttributes": {
+        "pathfindingMethod": "square",
+        "path": "dotted"
+      },
+      "fromNode": "6089f62f36200e7f",
+      "fromSide": "left",
+      "toNode": "7baab1765460151c",
+      "toSide": "right"
+    },
+    {
+      "id": "ae922f139fbdf6bc",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "83114828c215ec71",
+      "fromSide": "right",
+      "toNode": "863bc92c6f5fd7d7",
+      "toSide": "right"
+    },
+    {
+      "id": "c0a967f81d054cca",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "38a31ac239d7c506",
+      "fromSide": "right",
+      "toNode": "863bc92c6f5fd7d7",
+      "toSide": "right"
+    }
+  ],
+  "metadata": {}
+}
