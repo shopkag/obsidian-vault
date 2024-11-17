@@ -1,0 +1,151 @@
+{
+  "nodes": [
+    {
+      "id": "ea546dade8f954d3",
+      "type": "text",
+      "text": "Парообразование",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -280,
+      "y": -1580,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "9b48f647adb03340",
+      "type": "text",
+      "text": "пар",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -480,
+      "y": -1440,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "9b04de213919d002",
+      "type": "text",
+      "text": "образование",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -80,
+      "y": -1440,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "7f3d98615cd1361d",
+      "type": "text",
+      "text": "то что образуется из воды при кипячении\n",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -610,
+      "y": -1260,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "08fb474f3a21a21a",
+      "type": "text",
+      "text": "образуется пар",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -280,
+      "y": -1240,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "1335953f3561cc40",
+      "type": "text",
+      "text": "что-то образуется",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 50,
+      "y": -1270,
+      "width": 260,
+      "height": 140
+    }
+  ],
+  "edges": [
+    {
+      "id": "ffe8f312bd9d2db2",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "9b48f647adb03340",
+      "fromSide": "top",
+      "toNode": "ea546dade8f954d3",
+      "toSide": "bottom"
+    },
+    {
+      "id": "ad905b69bc23df7e",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "9b04de213919d002",
+      "fromSide": "top",
+      "toNode": "ea546dade8f954d3",
+      "toSide": "bottom"
+    },
+    {
+      "id": "fc877ee7700555a7",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "7f3d98615cd1361d",
+      "fromSide": "top",
+      "toNode": "9b48f647adb03340",
+      "toSide": "bottom"
+    },
+    {
+      "id": "c0c4c80c9d066e06",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "1335953f3561cc40",
+      "fromSide": "top",
+      "toNode": "9b04de213919d002",
+      "toSide": "bottom"
+    },
+    {
+      "id": "4138a89e869c1aae",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "7f3d98615cd1361d",
+      "fromSide": "right",
+      "toNode": "08fb474f3a21a21a",
+      "toSide": "left"
+    },
+    {
+      "id": "d84295b798523b07",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "1335953f3561cc40",
+      "fromSide": "left",
+      "toNode": "08fb474f3a21a21a",
+      "toSide": "right"
+    },
+    {
+      "id": "e1400493d8602b04",
+      "styleAttributes": {
+        "pathfindingMethod": "square",
+        "arrow": null
+      },
+      "fromNode": "9b48f647adb03340",
+      "fromSide": "right",
+      "toNode": "08fb474f3a21a21a",
+      "toSide": "top",
+      "toEnd": "none"
+    }
+  ],
+  "metadata": {}
+}
