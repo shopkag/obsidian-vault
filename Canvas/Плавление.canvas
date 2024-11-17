@@ -261,16 +261,6 @@
       "height": 60
     },
     {
-      "id": "8df14d46de60474b",
-      "type": "text",
-      "text": "от удельной теплоемкости?",
-      "styleAttributes": {},
-      "x": 140,
-      "y": 2000,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "9758140b51b095cc",
       "type": "text",
       "text": "от плотности?",
@@ -609,6 +599,16 @@
       },
       "x": 580,
       "y": 4160,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "8df14d46de60474b",
+      "type": "text",
+      "text": "от удельной теплоемкости?",
+      "styleAttributes": {},
+      "x": 140,
+      "y": 2050,
       "width": 260,
       "height": 60
     }
