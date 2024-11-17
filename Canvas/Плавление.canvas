@@ -593,10 +593,22 @@
     {
       "id": "623eba0efa41ee90",
       "type": "text",
-      "text": "удельная теплота ",
+      "text": "удельная теплота плавления вещества",
       "styleAttributes": {},
-      "x": 600,
-      "y": 3860,
+      "x": 730,
+      "y": 4040,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "be161788d6c9e0c9",
+      "type": "text",
+      "text": "Q=$\\lambda m$",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 580,
+      "y": 4160,
       "width": 260,
       "height": 60
     }
@@ -1252,6 +1264,36 @@
       "fromSide": "bottom",
       "toNode": "4a008e621b13e537",
       "toSide": "top"
+    },
+    {
+      "id": "e06607a83c653ebb",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "22916837db558c2d",
+      "fromSide": "bottom",
+      "toNode": "623eba0efa41ee90",
+      "toSide": "top"
+    },
+    {
+      "id": "ad953a17e8458350",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "623eba0efa41ee90",
+      "fromSide": "bottom",
+      "toNode": "be161788d6c9e0c9",
+      "toSide": "right"
+    },
+    {
+      "id": "eebf084d6971019b",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "4a008e621b13e537",
+      "fromSide": "bottom",
+      "toNode": "be161788d6c9e0c9",
+      "toSide": "left"
     }
   ],
   "metadata": {}
