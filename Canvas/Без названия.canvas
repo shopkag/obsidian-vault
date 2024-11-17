@@ -109,6 +109,16 @@
       "y": 1120,
       "width": 260,
       "height": 100
+    },
+    {
+      "id": "f98ae94739b5cf5c",
+      "type": "text",
+      "text": "Прияём",
+      "styleAttributes": {},
+      "x": 60,
+      "y": 1360,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
@@ -210,6 +220,16 @@
       "fromNode": "f92c4d81134b6800",
       "fromSide": "bottom",
       "toNode": "1ffc054da32e0b28",
+      "toSide": "top"
+    },
+    {
+      "id": "e225d9f175207fe1",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "1ffc054da32e0b28",
+      "fromSide": "bottom",
+      "toNode": "f98ae94739b5cf5c",
       "toSide": "top"
     }
   ],
