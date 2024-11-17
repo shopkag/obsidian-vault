@@ -181,14 +181,34 @@
       "height": 60
     },
     {
-      "id": "d4450779b4754ea4",
+      "id": "451f243034acf228",
       "type": "text",
-      "text": "Энергия выделяется при соединении молекул?",
+      "text": "Газ переходит в жидкость",
       "styleAttributes": {},
       "x": 120,
-      "y": 2180,
+      "y": 2220,
       "width": 260,
-      "height": 80
+      "height": 60
+    },
+    {
+      "id": "006bea9313179f00",
+      "type": "text",
+      "text": "Молекулы газа соединяются",
+      "styleAttributes": {},
+      "x": 120,
+      "y": 2400,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "0b098cd4d517f3b0",
+      "type": "text",
+      "text": "При соединении молекул выделяется энергия",
+      "styleAttributes": {},
+      "x": 120,
+      "y": 2580,
+      "width": 260,
+      "height": 100
     }
   ],
   "edges": [
@@ -363,23 +383,53 @@
       "toSide": "top"
     },
     {
-      "id": "21e27aa50db33c46",
+      "id": "4b524cc482d7c37d",
       "styleAttributes": {
         "pathfindingMethod": "square"
       },
       "fromNode": "ac6d231fa446cbf7",
       "fromSide": "bottom",
-      "toNode": "d4450779b4754ea4",
+      "toNode": "451f243034acf228",
       "toSide": "top"
     },
     {
-      "id": "b56c7e78141fe939",
+      "id": "7f2b288518c44a1b",
       "styleAttributes": {
         "pathfindingMethod": "square"
       },
       "fromNode": "aed7ebcd79d6af78",
       "fromSide": "bottom",
-      "toNode": "d4450779b4754ea4",
+      "toNode": "451f243034acf228",
+      "toSide": "top"
+    },
+    {
+      "id": "231e0e1f79a1e380",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "451f243034acf228",
+      "fromSide": "bottom",
+      "toNode": "006bea9313179f00",
+      "toSide": "top"
+    },
+    {
+      "id": "378e65b47a9f2ebf",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "aed7ebcd79d6af78",
+      "fromSide": "bottom",
+      "toNode": "006bea9313179f00",
+      "toSide": "right"
+    },
+    {
+      "id": "1d8e62d72d92a257",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "006bea9313179f00",
+      "fromSide": "bottom",
+      "toNode": "0b098cd4d517f3b0",
       "toSide": "top"
     }
   ],
