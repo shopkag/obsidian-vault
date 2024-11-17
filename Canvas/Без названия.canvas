@@ -1,0 +1,217 @@
+{
+  "nodes": [
+    {
+      "id": "774e6844d7ebccf9",
+      "type": "text",
+      "text": "Поглощение энергии при испарении жидкости и выделение её при конденсации пара",
+      "styleAttributes": {},
+      "x": -160,
+      "y": -160,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "e139622d55b1936f",
+      "type": "text",
+      "text": "Поглощение энергии при испарении",
+      "styleAttributes": {},
+      "x": -380,
+      "y": 60,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "39930a9b2ac47a34",
+      "type": "text",
+      "text": "Выделение энергии при конденсации пара",
+      "styleAttributes": {},
+      "x": 40,
+      "y": 60,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b746f1fcb27957fd",
+      "type": "text",
+      "text": "Что такое конденсация?",
+      "styleAttributes": {},
+      "x": 180,
+      "y": 200,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "9c799bd71c7a96f0",
+      "type": "text",
+      "text": "В мультиварке есть контейнер для сборки конденсата",
+      "styleAttributes": {},
+      "x": 140,
+      "y": 360,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "f3d9d081e02b8abb",
+      "type": "text",
+      "text": "Там обычно находится жидкость",
+      "styleAttributes": {},
+      "x": 140,
+      "y": 540,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "2643ec4e1aa92c9a",
+      "type": "text",
+      "text": "Причём здесь пар?",
+      "styleAttributes": {},
+      "x": 520,
+      "y": 540,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b8a985fb4e004f98",
+      "type": "text",
+      "text": "Пар – жидкость, превращенная в газ",
+      "styleAttributes": {},
+      "x": 520,
+      "y": 720,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "7ec025d483704ebe",
+      "type": "text",
+      "text": "Конденсация – преобразование газа в жидкость?",
+      "styleAttributes": {},
+      "x": 120,
+      "y": 820,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "f92c4d81134b6800",
+      "type": "text",
+      "text": "А может это процесс преобразования?",
+      "styleAttributes": {},
+      "x": 100,
+      "y": 1000,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "1ffc054da32e0b28",
+      "type": "text",
+      "text": "Конденсация – процесс преобразования газа в жидкость",
+      "styleAttributes": {},
+      "x": 120,
+      "y": 1120,
+      "width": 260,
+      "height": 100
+    }
+  ],
+  "edges": [
+    {
+      "id": "1de79b0d11615977",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "774e6844d7ebccf9",
+      "fromSide": "bottom",
+      "toNode": "e139622d55b1936f",
+      "toSide": "top"
+    },
+    {
+      "id": "6df7e827e0acaf2f",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "774e6844d7ebccf9",
+      "fromSide": "bottom",
+      "toNode": "39930a9b2ac47a34",
+      "toSide": "top"
+    },
+    {
+      "id": "8d87023a0f8b68cf",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "39930a9b2ac47a34",
+      "fromSide": "bottom",
+      "toNode": "b746f1fcb27957fd",
+      "toSide": "top"
+    },
+    {
+      "id": "a61460ff1ad33039",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "b746f1fcb27957fd",
+      "fromSide": "bottom",
+      "toNode": "9c799bd71c7a96f0",
+      "toSide": "top"
+    },
+    {
+      "id": "76c6ae425b4cd385",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "9c799bd71c7a96f0",
+      "fromSide": "bottom",
+      "toNode": "f3d9d081e02b8abb",
+      "toSide": "top"
+    },
+    {
+      "id": "2b660695242ad8ec",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "f3d9d081e02b8abb",
+      "fromSide": "right",
+      "toNode": "2643ec4e1aa92c9a",
+      "toSide": "left"
+    },
+    {
+      "id": "6fe3251411f23faa",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "2643ec4e1aa92c9a",
+      "fromSide": "bottom",
+      "toNode": "b8a985fb4e004f98",
+      "toSide": "top"
+    },
+    {
+      "id": "1a18cbc42ed2de0d",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "b8a985fb4e004f98",
+      "fromSide": "left",
+      "toNode": "7ec025d483704ebe",
+      "toSide": "right"
+    },
+    {
+      "id": "ead529b3dd13a07f",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "7ec025d483704ebe",
+      "fromSide": "bottom",
+      "toNode": "f92c4d81134b6800",
+      "toSide": "top"
+    },
+    {
+      "id": "2e916dc2efc29daa",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "f92c4d81134b6800",
+      "fromSide": "bottom",
+      "toNode": "1ffc054da32e0b28",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}
