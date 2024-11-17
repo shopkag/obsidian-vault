@@ -133,10 +133,40 @@
     {
       "id": "b5080ac268883bf1",
       "type": "text",
-      "text": "То есть энерги",
+      "text": "То есть энергия выделяется при изменении агрегатного состояния?",
       "styleAttributes": {},
       "x": 540,
       "y": 1560,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "254bd322494acc88",
+      "type": "text",
+      "text": "Не всегда, сверху идет поглощение энергии ",
+      "styleAttributes": {},
+      "x": 120,
+      "y": 1600,
+      "width": 260,
+      "height": 80
+    },
+    {
+      "id": "845a6b62553607f9",
+      "type": "text",
+      "text": "Может дело в молекулах?",
+      "styleAttributes": {},
+      "x": 120,
+      "y": 1820,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ac6d231fa446cbf7",
+      "type": "text",
+      "text": "В газе они разр",
+      "styleAttributes": {},
+      "x": 120,
+      "y": 2020,
       "width": 260,
       "height": 60
     }
@@ -270,6 +300,36 @@
       "fromNode": "9c2dff7da759697d",
       "fromSide": "bottom",
       "toNode": "b5080ac268883bf1",
+      "toSide": "top"
+    },
+    {
+      "id": "5cc1b95134a2e901",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "b5080ac268883bf1",
+      "fromSide": "left",
+      "toNode": "254bd322494acc88",
+      "toSide": "right"
+    },
+    {
+      "id": "665942e1fc12cb6e",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "254bd322494acc88",
+      "fromSide": "bottom",
+      "toNode": "845a6b62553607f9",
+      "toSide": "top"
+    },
+    {
+      "id": "1c06dee06fdd7198",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "845a6b62553607f9",
+      "fromSide": "bottom",
+      "toNode": "ac6d231fa446cbf7",
       "toSide": "top"
     }
   ],
