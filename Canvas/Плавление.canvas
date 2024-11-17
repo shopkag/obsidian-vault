@@ -511,16 +511,6 @@
       "height": 120
     },
     {
-      "id": "cc6eb0bd183e4504",
-      "type": "text",
-      "text": "количество теплоты, необходимое для плавления равно $\\rho*Q$ ",
-      "styleAttributes": {},
-      "x": 860,
-      "y": 3320,
-      "width": 260,
-      "height": 120
-    },
-    {
       "id": "eb78b16ef5ad0fa2",
       "type": "text",
       "text": "кол-во теплоты для преодоления межмолекулярной связи === Q",
@@ -553,11 +543,61 @@
     {
       "id": "fb79887b527a244e",
       "type": "text",
-      "text": "нам нужно узнать теплоту плавления",
+      "text": "сколько теплоты потребуется для плавления кг железа?",
       "styleAttributes": {},
       "x": 540,
       "y": 3740,
       "width": 270,
+      "height": 100
+    },
+    {
+      "id": "cc6eb0bd183e4504",
+      "type": "text",
+      "text": "количество теплоты, необходимое для плавления равно $\\rho*Q$ ",
+      "styleAttributes": {},
+      "x": 860,
+      "y": 3320,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "11e2b5712fb1ed48",
+      "type": "text",
+      "text": "кг – это масса",
+      "styleAttributes": {},
+      "x": 380,
+      "y": 3920,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "22916837db558c2d",
+      "type": "text",
+      "text": "железо – вещество",
+      "styleAttributes": {},
+      "x": 730,
+      "y": 3920,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "4a008e621b13e537",
+      "type": "text",
+      "text": "масса – m",
+      "styleAttributes": {},
+      "x": 380,
+      "y": 4040,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "623eba0efa41ee90",
+      "type": "text",
+      "text": "удельная теплота ",
+      "styleAttributes": {},
+      "x": 600,
+      "y": 3860,
+      "width": 260,
       "height": 60
     }
   ],
@@ -1161,6 +1201,56 @@
       "fromNode": "5e6ecbb1f4cceeaf",
       "fromSide": "bottom",
       "toNode": "0b3491a17af2c7f9",
+      "toSide": "top"
+    },
+    {
+      "id": "f8844edb85837da8",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "550a4fd716d35c52",
+      "fromSide": "left",
+      "toNode": "fb79887b527a244e",
+      "toSide": "top"
+    },
+    {
+      "id": "35bec9bbafb82f39",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "5e6ecbb1f4cceeaf",
+      "fromSide": "left",
+      "toNode": "fb79887b527a244e",
+      "toSide": "right"
+    },
+    {
+      "id": "93ef9ad5423f0ec7",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "fb79887b527a244e",
+      "fromSide": "bottom",
+      "toNode": "11e2b5712fb1ed48",
+      "toSide": "top"
+    },
+    {
+      "id": "6f6a40044d7b2ea3",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "fb79887b527a244e",
+      "fromSide": "bottom",
+      "toNode": "22916837db558c2d",
+      "toSide": "top"
+    },
+    {
+      "id": "8a4a9a4dc34e165a",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "11e2b5712fb1ed48",
+      "fromSide": "bottom",
+      "toNode": "4a008e621b13e537",
       "toSide": "top"
     }
   ],
