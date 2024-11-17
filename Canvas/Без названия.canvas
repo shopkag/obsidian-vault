@@ -163,12 +163,32 @@
     {
       "id": "ac6d231fa446cbf7",
       "type": "text",
-      "text": "В газе они разр",
+      "text": "В газе они разрозненны",
       "styleAttributes": {},
-      "x": 120,
+      "x": -40,
+      "y": 2020,
+      "width": 240,
+      "height": 60
+    },
+    {
+      "id": "aed7ebcd79d6af78",
+      "type": "text",
+      "text": "В жидкостях они соединены",
+      "styleAttributes": {},
+      "x": 300,
       "y": 2020,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "d4450779b4754ea4",
+      "type": "text",
+      "text": "Энергия выделяется при соединении молекул?",
+      "styleAttributes": {},
+      "x": 120,
+      "y": 2180,
+      "width": 260,
+      "height": 80
     }
   ],
   "edges": [
@@ -330,6 +350,36 @@
       "fromNode": "845a6b62553607f9",
       "fromSide": "bottom",
       "toNode": "ac6d231fa446cbf7",
+      "toSide": "top"
+    },
+    {
+      "id": "e25ec750f9353c74",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "845a6b62553607f9",
+      "fromSide": "bottom",
+      "toNode": "aed7ebcd79d6af78",
+      "toSide": "top"
+    },
+    {
+      "id": "21e27aa50db33c46",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "ac6d231fa446cbf7",
+      "fromSide": "bottom",
+      "toNode": "d4450779b4754ea4",
+      "toSide": "top"
+    },
+    {
+      "id": "b56c7e78141fe939",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "aed7ebcd79d6af78",
+      "fromSide": "bottom",
+      "toNode": "d4450779b4754ea4",
       "toSide": "top"
     }
   ],
