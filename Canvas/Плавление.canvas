@@ -1,0 +1,437 @@
+{
+  "nodes": [
+    {
+      "id": "4c4c5b9de2a224d9",
+      "type": "text",
+      "text": "Плавление",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -180,
+      "y": -140,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "e5aae8394754cfef",
+      "type": "text",
+      "text": "лед плавится",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -310,
+      "y": -14,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "296eaf71262b9b75",
+      "type": "text",
+      "text": "лед тает\n",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -360,
+      "y": 120,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "31b2f56942b4acc9",
+      "type": "text",
+      "text": "лед становится водой",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -460,
+      "y": 280,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "69eea16e0600bffc",
+      "type": "text",
+      "text": "железо плавится",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 20,
+      "y": -14,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "1a8711796d6bde74",
+      "type": "text",
+      "text": "лед становится жидким",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -310,
+      "y": 400,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "627202ee818c3eaf",
+      "type": "text",
+      "text": "железо становится жидким",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 120,
+      "y": 400,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "674d807a6297a777",
+      "type": "text",
+      "text": "железо – твердое тело\nжидкое железо – жидкость",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 200,
+      "y": 560,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "84d50fcf8841f339",
+      "type": "text",
+      "text": "лед – твердое тело\nвода – жидкость",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -440,
+      "y": 580,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "08707da61a58937c",
+      "type": "text",
+      "text": "жидкость образуется из твердого тела",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -110,
+      "y": 580,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "7106842f48d4d1f6",
+      "type": "text",
+      "text": "Образование жидкости из твердого тела",
+      "styleAttributes": {},
+      "x": -110,
+      "y": 720,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b5f6be750ccb2025",
+      "type": "text",
+      "text": "Лед нагревается",
+      "styleAttributes": {},
+      "x": -440,
+      "y": 980,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "3e53f86106ded796",
+      "type": "text",
+      "text": "железо нагревается",
+      "styleAttributes": {},
+      "x": 200,
+      "y": 980,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "390ee2e86fe1d9f2",
+      "type": "text",
+      "text": "лед плавится при высокой t",
+      "styleAttributes": {},
+      "x": -440,
+      "y": 1120,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "c231ff979d9e7787",
+      "type": "text",
+      "text": "железо плавится при высокой t",
+      "styleAttributes": {},
+      "x": 200,
+      "y": 1120,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "7a31e7387779dc58",
+      "type": "text",
+      "text": "лед плавится при 0",
+      "styleAttributes": {},
+      "x": -440,
+      "y": 1260,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "5443b030b7dc333b",
+      "type": "text",
+      "text": "железо плавится при 1500",
+      "styleAttributes": {},
+      "x": 200,
+      "y": 1260,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "5ac50076c9133821",
+      "type": "text",
+      "text": "твердые тела плавятся при высокой для них температуре",
+      "styleAttributes": {},
+      "x": -120,
+      "y": 1260,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "7b2619b94d3618bf",
+      "type": "file",
+      "file": "Заметки/Плавление (физика).md",
+      "x": 860,
+      "y": 520,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "75123533570465ee",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": -120,
+      "y": 1480,
+      "width": 260,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "408f595a12fa0742",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "e5aae8394754cfef",
+      "fromSide": "top",
+      "toNode": "4c4c5b9de2a224d9",
+      "toSide": "bottom"
+    },
+    {
+      "id": "afe5985490f4b961",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "296eaf71262b9b75",
+      "fromSide": "top",
+      "toNode": "e5aae8394754cfef",
+      "toSide": "bottom"
+    },
+    {
+      "id": "f74a89cda76989aa",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "31b2f56942b4acc9",
+      "fromSide": "top",
+      "toNode": "296eaf71262b9b75",
+      "toSide": "bottom"
+    },
+    {
+      "id": "ada1d82d9a925ce6",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "69eea16e0600bffc",
+      "fromSide": "top",
+      "toNode": "4c4c5b9de2a224d9",
+      "toSide": "bottom"
+    },
+    {
+      "id": "13a6e33bb74a46a4",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "627202ee818c3eaf",
+      "fromSide": "top",
+      "toNode": "69eea16e0600bffc",
+      "toSide": "bottom"
+    },
+    {
+      "id": "0ef7ad3a6bf1c1bb",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "1a8711796d6bde74",
+      "fromSide": "top",
+      "toNode": "31b2f56942b4acc9",
+      "toSide": "bottom"
+    },
+    {
+      "id": "a4f98eed67de7bec",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "84d50fcf8841f339",
+      "fromSide": "top",
+      "toNode": "1a8711796d6bde74",
+      "toSide": "bottom",
+      "toEnd": "none"
+    },
+    {
+      "id": "f46a5a29801e8a56",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "674d807a6297a777",
+      "fromSide": "top",
+      "toNode": "627202ee818c3eaf",
+      "toSide": "bottom"
+    },
+    {
+      "id": "5803511198e7fabe",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "84d50fcf8841f339",
+      "fromSide": "right",
+      "toNode": "08707da61a58937c",
+      "toSide": "left"
+    },
+    {
+      "id": "8e591024cd3a7d88",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "674d807a6297a777",
+      "fromSide": "left",
+      "toNode": "08707da61a58937c",
+      "toSide": "right"
+    },
+    {
+      "id": "cf03095780a6a1a7",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "4c4c5b9de2a224d9",
+      "fromSide": "bottom",
+      "toNode": "08707da61a58937c",
+      "toSide": "top"
+    },
+    {
+      "id": "b00af1bbe8c55dd6",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "08707da61a58937c",
+      "fromSide": "bottom",
+      "toNode": "7106842f48d4d1f6",
+      "toSide": "top"
+    },
+    {
+      "id": "5857ff6d44407565",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "3e53f86106ded796",
+      "fromSide": "top",
+      "toNode": "674d807a6297a777",
+      "toSide": "bottom"
+    },
+    {
+      "id": "d9069b3a0db73615",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "b5f6be750ccb2025",
+      "fromSide": "top",
+      "toNode": "84d50fcf8841f339",
+      "toSide": "bottom"
+    },
+    {
+      "id": "aa4bb9923e0c93ac",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "390ee2e86fe1d9f2",
+      "fromSide": "top",
+      "toNode": "b5f6be750ccb2025",
+      "toSide": "bottom"
+    },
+    {
+      "id": "115bfc5710d6d41d",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "c231ff979d9e7787",
+      "fromSide": "top",
+      "toNode": "3e53f86106ded796",
+      "toSide": "bottom"
+    },
+    {
+      "id": "277b5a8cf11b9506",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "5443b030b7dc333b",
+      "fromSide": "left",
+      "toNode": "5ac50076c9133821",
+      "toSide": "right"
+    },
+    {
+      "id": "85b8b4f26775f708",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "7a31e7387779dc58",
+      "fromSide": "right",
+      "toNode": "5ac50076c9133821",
+      "toSide": "left"
+    },
+    {
+      "id": "b738d41ea328b8d0",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "7106842f48d4d1f6",
+      "fromSide": "bottom",
+      "toNode": "5ac50076c9133821",
+      "toSide": "top"
+    },
+    {
+      "id": "b075d0d996aa5bf0",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "7a31e7387779dc58",
+      "fromSide": "top",
+      "toNode": "390ee2e86fe1d9f2",
+      "toSide": "bottom"
+    },
+    {
+      "id": "60a842c063256058",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "5443b030b7dc333b",
+      "fromSide": "top",
+      "toNode": "c231ff979d9e7787",
+      "toSide": "bottom"
+    }
+  ],
+  "metadata": {}
+}
