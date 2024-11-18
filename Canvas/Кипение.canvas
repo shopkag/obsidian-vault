@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "id": "e5e03faf7882c83a",
+      "type": "text",
+      "text": "Кипение",
+      "styleAttributes": {},
+      "x": -20,
+      "y": -280,
+      "width": 140,
+      "height": 60
+    },
+    {
+      "id": "fadf26fcb77cfbf5",
+      "type": "text",
+      "text": "Вода в чайнике кипит",
+      "styleAttributes": {},
+      "x": -200,
+      "y": -100,
+      "width": 260,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "3aec0a12b4f2d38b",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "e5e03faf7882c83a",
+      "fromSide": "bottom",
+      "toNode": "fadf26fcb77cfbf5",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}
