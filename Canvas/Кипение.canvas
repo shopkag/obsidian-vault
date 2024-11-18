@@ -93,10 +93,30 @@
     {
       "id": "70d63e3d076d319c",
       "type": "text",
-      "text": "Жидкость переходит в глаз",
+      "text": "Жидкость быстро переходит в газ с выводом через пузырьки пара",
       "styleAttributes": {},
       "x": -280,
       "y": 1240,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "f345a733b59a1904",
+      "type": "text",
+      "text": "Процесс быстрого перехода жидкости в газ с применением пузырьков пара",
+      "styleAttributes": {},
+      "x": 120,
+      "y": 1280,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "3db34395b12ef21b",
+      "type": "text",
+      "text": "Если не нагревать,",
+      "styleAttributes": {},
+      "x": -460,
+      "y": 1460,
       "width": 260,
       "height": 60
     }
@@ -190,6 +210,26 @@
       "fromNode": "f38cb3216dbe0b6b",
       "fromSide": "bottom",
       "toNode": "70d63e3d076d319c",
+      "toSide": "top"
+    },
+    {
+      "id": "2d237496be6aa09d",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "70d63e3d076d319c",
+      "fromSide": "right",
+      "toNode": "f345a733b59a1904",
+      "toSide": "left"
+    },
+    {
+      "id": "2c92364abab0d4f3",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "70d63e3d076d319c",
+      "fromSide": "bottom",
+      "toNode": "3db34395b12ef21b",
       "toSide": "top"
     }
   ],
