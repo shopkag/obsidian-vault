@@ -208,6 +208,118 @@
       "x": 120,
       "y": 2580,
       "width": 260,
+      "height": 100,
+      "color": "2"
+    },
+    {
+      "id": "28c8077069879ece",
+      "type": "text",
+      "text": "Почему энергия поглощается?",
+      "styleAttributes": {},
+      "x": -600,
+      "y": 220,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "285b7a48a128c9a7",
+      "type": "text",
+      "text": "Почему энергия расходуется при испарении?",
+      "styleAttributes": {},
+      "x": -840,
+      "y": 340,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "99039339feff9763",
+      "type": "text",
+      "text": "Что такое испарение?",
+      "styleAttributes": {},
+      "x": -620,
+      "y": 500,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "4a89a5a3e37fd06b",
+      "type": "text",
+      "text": "Преобразование жидкости в газ",
+      "styleAttributes": {},
+      "x": -620,
+      "y": 660,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ac6f1ef1ef984251",
+      "type": "text",
+      "text": "Как преобразовывается?",
+      "styleAttributes": {},
+      "x": -680,
+      "y": 800,
+      "width": 260,
+      "height": 40
+    },
+    {
+      "id": "667dc57c9dd04aaf",
+      "type": "text",
+      "text": "На разъединение молекул требуется энергия",
+      "styleAttributes": {},
+      "x": -680,
+      "y": 2580,
+      "width": 260,
+      "height": 100,
+      "color": "2"
+    },
+    {
+      "id": "65cb3986998ee616",
+      "type": "text",
+      "text": "Молекулы жидкости разъединяются друг с другом",
+      "styleAttributes": {},
+      "x": -680,
+      "y": 1000,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "6dd10312f7424a72",
+      "type": "text",
+      "text": "Образуется газ",
+      "styleAttributes": {},
+      "x": -680,
+      "y": 1240,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b7117fd3b9fdf6bc",
+      "type": "text",
+      "text": "Как молекулы разъединяются?",
+      "styleAttributes": {},
+      "x": -680,
+      "y": 1520,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "fb7ed5f8aa2e1ea1",
+      "type": "text",
+      "text": "Нужно преодолеть притяжение",
+      "styleAttributes": {},
+      "x": -680,
+      "y": 1720,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "dbfecaed6e2469ff",
+      "type": "text",
+      "text": "Притяжение преодолевается кинетической энергией",
+      "styleAttributes": {},
+      "x": -680,
+      "y": 1960,
+      "width": 260,
       "height": 100
     }
   ],
@@ -431,6 +543,137 @@
       "fromSide": "bottom",
       "toNode": "0b098cd4d517f3b0",
       "toSide": "top"
+    },
+    {
+      "id": "4d2226172f7a94d6",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "e139622d55b1936f",
+      "fromSide": "bottom",
+      "toNode": "28c8077069879ece",
+      "toSide": "top"
+    },
+    {
+      "id": "df6c147725354407",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "28c8077069879ece",
+      "fromSide": "bottom",
+      "toNode": "285b7a48a128c9a7",
+      "toSide": "top"
+    },
+    {
+      "id": "f9fd9cbdacab2922",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "285b7a48a128c9a7",
+      "fromSide": "bottom",
+      "toNode": "99039339feff9763",
+      "toSide": "top"
+    },
+    {
+      "id": "50320c9d3f909464",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "99039339feff9763",
+      "fromSide": "bottom",
+      "toNode": "4a89a5a3e37fd06b",
+      "toSide": "top"
+    },
+    {
+      "id": "bcf49fcc1dfa3b24",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "4a89a5a3e37fd06b",
+      "fromSide": "bottom",
+      "toNode": "ac6f1ef1ef984251",
+      "toSide": "top"
+    },
+    {
+      "id": "5d1f30d253e3b032",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "285b7a48a128c9a7",
+      "fromSide": "bottom",
+      "toNode": "667dc57c9dd04aaf",
+      "toSide": "left"
+    },
+    {
+      "id": "73226438a8f98d2b",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "ac6f1ef1ef984251",
+      "fromSide": "bottom",
+      "toNode": "65cb3986998ee616",
+      "toSide": "top"
+    },
+    {
+      "id": "e8c0c52563f7e31c",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "65cb3986998ee616",
+      "fromSide": "bottom",
+      "toNode": "6dd10312f7424a72",
+      "toSide": "top"
+    },
+    {
+      "id": "02567dab63c8e41d",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "6dd10312f7424a72",
+      "fromSide": "bottom",
+      "toNode": "b7117fd3b9fdf6bc",
+      "toSide": "top"
+    },
+    {
+      "id": "1d4f0debb99b49f6",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "b7117fd3b9fdf6bc",
+      "fromSide": "bottom",
+      "toNode": "fb7ed5f8aa2e1ea1",
+      "toSide": "top"
+    },
+    {
+      "id": "7ef0cff69c6b627d",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "fb7ed5f8aa2e1ea1",
+      "fromSide": "bottom",
+      "toNode": "dbfecaed6e2469ff",
+      "toSide": "top"
+    },
+    {
+      "id": "e140cfdc279e6b9b",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "dbfecaed6e2469ff",
+      "fromSide": "bottom",
+      "toNode": "667dc57c9dd04aaf",
+      "toSide": "top"
+    },
+    {
+      "id": "c4265162141ff9a1",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "667dc57c9dd04aaf",
+      "fromSide": "right",
+      "toNode": "0b098cd4d517f3b0",
+      "toSide": "left",
+      "toEnd": "none"
     }
   ],
   "metadata": {}
