@@ -19,6 +19,26 @@
       "y": 180,
       "width": 260,
       "height": 100
+    },
+    {
+      "id": "463518999197e4b7",
+      "type": "text",
+      "text": "Тогда вода будет остужаться от глины, ведь она находится с ней на большей площади, чем с водой",
+      "styleAttributes": {},
+      "x": -500,
+      "y": 400,
+      "width": 260,
+      "height": 160
+    },
+    {
+      "id": "4f4d49d5c0108ee6",
+      "type": "text",
+      "text": "Понизится ли температура воды?",
+      "styleAttributes": {},
+      "x": -320,
+      "y": 600,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
@@ -30,6 +50,26 @@
       "fromNode": "e42e112f294ee88f",
       "fromSide": "bottom",
       "toNode": "95bbfe4f3ac42903",
+      "toSide": "top"
+    },
+    {
+      "id": "fec753c302884228",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "95bbfe4f3ac42903",
+      "fromSide": "bottom",
+      "toNode": "463518999197e4b7",
+      "toSide": "top"
+    },
+    {
+      "id": "85dd2aaa4aa53fa8",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "463518999197e4b7",
+      "fromSide": "bottom",
+      "toNode": "4f4d49d5c0108ee6",
       "toSide": "top"
     }
   ],
