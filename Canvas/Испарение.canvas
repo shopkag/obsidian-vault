@@ -495,6 +495,76 @@
       "y": 3120,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "f503ebbc5123d2c8",
+      "type": "text",
+      "text": "Почему понижается температура при испарении?",
+      "styleAttributes": {},
+      "x": 520,
+      "y": 3360,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "fa71c7f06651e2cb",
+      "type": "text",
+      "text": "Переход от жидкости к газу",
+      "styleAttributes": {},
+      "x": 220,
+      "y": 3580,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "e816afadb2185331",
+      "type": "text",
+      "text": " Нужно разъединить молекулы",
+      "styleAttributes": {},
+      "x": 520,
+      "y": 3700,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "c6f4a885186e9894",
+      "type": "text",
+      "text": "Нужно преодолеть межмолекулярное притяжение",
+      "styleAttributes": {},
+      "x": 220,
+      "y": 3820,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "3a58ff5c46316f88",
+      "type": "text",
+      "text": "Нужно затратить энергию на это",
+      "styleAttributes": {},
+      "x": 520,
+      "y": 3960,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f5ac2bb0e2af03bf",
+      "type": "text",
+      "text": "Энергия тела идёт не на поддержание температуры, а на разъединение молекул",
+      "styleAttributes": {},
+      "x": 220,
+      "y": 4080,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "8a66f9fa31f7efda",
+      "type": "text",
+      "text": "Тело охлаждается, так как не способно поддерживать температуру",
+      "styleAttributes": {},
+      "x": 540,
+      "y": 4240,
+      "width": 260,
+      "height": 120
     }
   ],
   "edges": [
@@ -1048,6 +1118,76 @@
       "fromSide": "right",
       "toNode": "045b729d62ee0f56",
       "toSide": "left"
+    },
+    {
+      "id": "5053aafdb47d24c2",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "045b729d62ee0f56",
+      "fromSide": "bottom",
+      "toNode": "f503ebbc5123d2c8",
+      "toSide": "right"
+    },
+    {
+      "id": "9cf7d638d39db68a",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "f503ebbc5123d2c8",
+      "fromSide": "bottom",
+      "toNode": "fa71c7f06651e2cb",
+      "toSide": "top"
+    },
+    {
+      "id": "5d3532f5bf5f82d9",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "fa71c7f06651e2cb",
+      "fromSide": "bottom",
+      "toNode": "e816afadb2185331",
+      "toSide": "top"
+    },
+    {
+      "id": "7d96673ce4a02716",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "e816afadb2185331",
+      "fromSide": "bottom",
+      "toNode": "c6f4a885186e9894",
+      "toSide": "top"
+    },
+    {
+      "id": "56f6dcafef8cff3a",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "c6f4a885186e9894",
+      "fromSide": "bottom",
+      "toNode": "3a58ff5c46316f88",
+      "toSide": "top"
+    },
+    {
+      "id": "bc93c04d1358dfea",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "3a58ff5c46316f88",
+      "fromSide": "bottom",
+      "toNode": "f5ac2bb0e2af03bf",
+      "toSide": "top"
+    },
+    {
+      "id": "51d7b8bd02f7c778",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "f5ac2bb0e2af03bf",
+      "fromSide": "bottom",
+      "toNode": "8a66f9fa31f7efda",
+      "toSide": "top"
     }
   ],
   "metadata": {}
