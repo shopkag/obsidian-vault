@@ -69,6 +69,36 @@
       "y": 720,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "6c23f3cae83a3fc2",
+      "type": "text",
+      "text": "С пузырьками уходит пар",
+      "styleAttributes": {},
+      "x": -480,
+      "y": 840,
+      "width": 280,
+      "height": 80
+    },
+    {
+      "id": "f38cb3216dbe0b6b",
+      "type": "text",
+      "text": "Пар уходит через пузырьки",
+      "styleAttributes": {},
+      "x": -460,
+      "y": 1080,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "70d63e3d076d319c",
+      "type": "text",
+      "text": "Жидкость переходит в глаз",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 1240,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
@@ -130,6 +160,36 @@
       "fromNode": "7ce3c2942dd12146",
       "fromSide": "bottom",
       "toNode": "4454438fc198e8c8",
+      "toSide": "top"
+    },
+    {
+      "id": "035e6f1630defbac",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "4454438fc198e8c8",
+      "fromSide": "bottom",
+      "toNode": "6c23f3cae83a3fc2",
+      "toSide": "top"
+    },
+    {
+      "id": "eead5a4e3131f4fd",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "6c23f3cae83a3fc2",
+      "fromSide": "bottom",
+      "toNode": "f38cb3216dbe0b6b",
+      "toSide": "top"
+    },
+    {
+      "id": "4b650e6fe9bc6ee9",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "f38cb3216dbe0b6b",
+      "fromSide": "bottom",
+      "toNode": "70d63e3d076d319c",
       "toSide": "top"
     }
   ],
