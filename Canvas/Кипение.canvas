@@ -19,6 +19,56 @@
       "y": -100,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "04f8170d938a22c4",
+      "type": "text",
+      "text": "Вода нагревается",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 120,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "e2f7837b93a9f25d",
+      "type": "text",
+      "text": "Вода бурлит",
+      "styleAttributes": {},
+      "x": -120,
+      "y": 300,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "81777d5425d15367",
+      "type": "text",
+      "text": "Появляются пузыри",
+      "styleAttributes": {},
+      "x": -240,
+      "y": 440,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "7ce3c2942dd12146",
+      "type": "text",
+      "text": "Если оставить чайник надолго, вода выкипит",
+      "styleAttributes": {},
+      "x": -420,
+      "y": 580,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "4454438fc198e8c8",
+      "type": "text",
+      "text": "Почему?",
+      "styleAttributes": {},
+      "x": -200,
+      "y": 720,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
@@ -30,6 +80,56 @@
       "fromNode": "e5e03faf7882c83a",
       "fromSide": "bottom",
       "toNode": "fadf26fcb77cfbf5",
+      "toSide": "top"
+    },
+    {
+      "id": "731df82541b97c71",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "fadf26fcb77cfbf5",
+      "fromSide": "bottom",
+      "toNode": "04f8170d938a22c4",
+      "toSide": "top"
+    },
+    {
+      "id": "0fe3d900870091e0",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "04f8170d938a22c4",
+      "fromSide": "bottom",
+      "toNode": "e2f7837b93a9f25d",
+      "toSide": "top"
+    },
+    {
+      "id": "db1e0a1fbf8c852b",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "e2f7837b93a9f25d",
+      "fromSide": "bottom",
+      "toNode": "81777d5425d15367",
+      "toSide": "top"
+    },
+    {
+      "id": "e250ca91deb0b9f9",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "81777d5425d15367",
+      "fromSide": "bottom",
+      "toNode": "7ce3c2942dd12146",
+      "toSide": "top"
+    },
+    {
+      "id": "ceb648d1cacac7a4",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "7ce3c2942dd12146",
+      "fromSide": "bottom",
+      "toNode": "4454438fc198e8c8",
       "toSide": "top"
     }
   ],
