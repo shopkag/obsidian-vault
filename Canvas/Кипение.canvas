@@ -113,10 +113,40 @@
     {
       "id": "3db34395b12ef21b",
       "type": "text",
-      "text": "Если не нагревать,",
+      "text": "Если не нагревать, кипения не будет",
       "styleAttributes": {},
       "x": -460,
       "y": 1460,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "d4a8ebe22aea73a1",
+      "type": "text",
+      "text": "Зависит от температуры",
+      "styleAttributes": {},
+      "x": -360,
+      "y": 1640,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "13dd770af0083783",
+      "type": "text",
+      "text": "У каждого вещества своя температура",
+      "styleAttributes": {},
+      "x": -540,
+      "y": 1780,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "adbb4df5f2b4b85c",
+      "type": "text",
+      "text": "Температура кипения?",
+      "styleAttributes": {},
+      "x": -340,
+      "y": 1940,
       "width": 260,
       "height": 60
     }
@@ -230,6 +260,46 @@
       "fromNode": "70d63e3d076d319c",
       "fromSide": "bottom",
       "toNode": "3db34395b12ef21b",
+      "toSide": "top"
+    },
+    {
+      "id": "2a34f7c205f5c65f",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "3db34395b12ef21b",
+      "fromSide": "bottom",
+      "toNode": "d4a8ebe22aea73a1",
+      "toSide": "top"
+    },
+    {
+      "id": "fe2a4534da3e5d72",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "d4a8ebe22aea73a1",
+      "fromSide": "bottom",
+      "toNode": "13dd770af0083783",
+      "toSide": "top"
+    },
+    {
+      "id": "37cdae26bcc4627e",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "13dd770af0083783",
+      "fromSide": "bottom",
+      "toNode": "adbb4df5f2b4b85c",
+      "toSide": "top"
+    },
+    {
+      "id": "1e3b49e639de6907",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "d4a8ebe22aea73a1",
+      "fromSide": "bottom",
+      "toNode": "adbb4df5f2b4b85c",
       "toSide": "top"
     }
   ],
