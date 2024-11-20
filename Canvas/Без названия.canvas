@@ -11,22 +11,22 @@
       "height": 60
     },
     {
-      "id": "47f5cd3911106005",
+      "id": "f8b996abc00da540",
       "type": "text",
-      "text": "Часто говорят, что воздух влажный",
+      "text": "Часто говорят, что воздух сухой",
       "styleAttributes": {},
-      "x": -320,
-      "y": 100,
+      "x": -380,
+      "y": 140,
       "width": 260,
       "height": 60
     },
     {
-      "id": "f8b996abc00da540",
+      "id": "47f5cd3911106005",
       "type": "text",
-      "text": "Часто говорят, что ",
+      "text": "Часто говорят, что воздух влажный",
       "styleAttributes": {},
-      "x": -680,
-      "y": 100,
+      "x": 140,
+      "y": 140,
       "width": 260,
       "height": 60
     }
@@ -43,14 +43,14 @@
       "toSide": "top"
     },
     {
-      "id": "161ea0124136ed40",
+      "id": "a1b490c91555a6a0",
       "styleAttributes": {
         "pathfindingMethod": "square"
       },
-      "fromNode": "47f5cd3911106005",
-      "fromSide": "left",
+      "fromNode": "173d53f92d7ad24f",
+      "fromSide": "bottom",
       "toNode": "f8b996abc00da540",
-      "toSide": "right"
+      "toSide": "top"
     }
   ],
   "metadata": {}
