@@ -9,8 +9,49 @@
       "y": -20,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "47f5cd3911106005",
+      "type": "text",
+      "text": "Часто говорят, что воздух влажный",
+      "styleAttributes": {},
+      "x": -320,
+      "y": 100,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f8b996abc00da540",
+      "type": "text",
+      "text": "Часто говорят, что ",
+      "styleAttributes": {},
+      "x": -680,
+      "y": 100,
+      "width": 260,
+      "height": 60
     }
   ],
-  "edges": [],
+  "edges": [
+    {
+      "id": "ea7a6f411d625eef",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "173d53f92d7ad24f",
+      "fromSide": "bottom",
+      "toNode": "47f5cd3911106005",
+      "toSide": "top"
+    },
+    {
+      "id": "161ea0124136ed40",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "47f5cd3911106005",
+      "fromSide": "left",
+      "toNode": "f8b996abc00da540",
+      "toSide": "right"
+    }
+  ],
   "metadata": {}
 }
