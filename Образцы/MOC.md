@@ -30,30 +30,32 @@ updated: 2024-12-18T14:40
 ---
 
 %%
-<style>
 /* Стили для заметок с тегом #MOC */
 .tag[href="#MOC"] {
   /* Обводка вокруг всей MOC-карточки */
-  border: 1px solid #ccc;
-  padding: 10px;
-  margin-bottom: 20px;
+  border: 3px dashed #287E28; /* Изменено: жирная пунктирная рамка темно-зеленого цвета */
+  padding: 20px; /* Увеличено: больше отступы */
+  margin-bottom: 30px; /* Увеличено: больше отступ снизу */
+  background-color: #f8f8f8; /* Добавлено: светло-серый фон */
 }
 
 /* Стиль для заголовков разделов */
 .tag[href="#MOC"] ~ h2 {
-  color: #287E28; /* Темно-зеленый цвет */
-  border-bottom: 2px solid #287E28;
-  padding-bottom: 5px;
+  color: #FF5733; /* Изменено: оранжевый цвет */
+  border-bottom: 4px solid #FF5733; /* Изменено: утолщенное подчеркивание оранжевого цвета */
+  padding-bottom: 8px; /* Увеличено: больше отступ снизу */
+  font-size: 1.4em; /* Увеличенный размер шрифта */
 }
 
 /* Стиль для ссылок внутри MOC */
 .tag[href="#MOC"] ~ * a {
-  color: #007acc; /* Синий цвет */
+  color: #007acc;
   text-decoration: none;
 }
 
 .tag[href="#MOC"] ~ * a:hover {
-  text-decoration: underline;
+  text-decoration: underline dotted; /* Изменено: пунктирное подчеркивание при наведении */
+  color: #FF5733;
 }
-</style>
+%%
 %%
