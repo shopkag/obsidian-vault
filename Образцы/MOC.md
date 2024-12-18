@@ -5,7 +5,8 @@ created: 2024-12-18T14:40
 updated: 2024-12-18T14:40
 ---
 
-#  {{title}}
+
+# {{title}}
 
 **Описание:** [Краткое описание MOC-карточки. О чем она?]
 
@@ -29,29 +30,30 @@ updated: 2024-12-18T14:40
 ---
 
 %%
-CSS стили для MOC-карточек:
-
-/* Обводка вокруг всей MOC-карточки */
-.moc-card {
+<style>
+/* Стили для заметок с тегом #MOC */
+.tag[href="#MOC"] {
+  /* Обводка вокруг всей MOC-карточки */
   border: 1px solid #ccc;
   padding: 10px;
   margin-bottom: 20px;
 }
 
 /* Стиль для заголовков разделов */
-.moc-card h2 {
+.tag[href="#MOC"] ~ h2 {
   color: #287E28; /* Темно-зеленый цвет */
   border-bottom: 2px solid #287E28;
   padding-bottom: 5px;
 }
 
 /* Стиль для ссылок внутри MOC */
-.moc-card a {
+.tag[href="#MOC"] ~ * a {
   color: #007acc; /* Синий цвет */
   text-decoration: none;
 }
 
-.moc-card a:hover {
+.tag[href="#MOC"] ~ * a:hover {
   text-decoration: underline;
 }
+</style>
 %%
