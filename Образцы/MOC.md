@@ -2,7 +2,7 @@
 tags:
   - MOC
 created: 2024-12-18T14:47
-updated: 2024-12-19T15:25
+updated: 2024-12-19T15:28
 ---
 
 #  {{title}}
@@ -67,3 +67,19 @@ body {
 <div class="moc-styles"></div>
 
 %% end-moc-styles %%
+
+ %%
+ <%*
+ // Получаем имя файла
+ const fileName = tp.file.title;
+
+ // Проверяем, содержит ли имя файла "MOC"
+ if (fileName.includes("MOC")) {
+   // Указываем путь к целевой папке, например "MOCs/"
+   const targetFolder = "MOC/";
+
+   // Перемещаем файл
+   await tp.file.move(targetFolder + fileName);
+ }
+ %>
+ %%
