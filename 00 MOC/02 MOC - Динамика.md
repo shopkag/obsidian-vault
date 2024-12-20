@@ -1,8 +1,11 @@
 ---
-created: 2024-12-18T14:47
-updated: 2024-12-19T15:47
+created: <% tp.date.now("YYYY-MM-DD") %>
+updated: 2024-12-20T18:42
 tags:
   - MOC
+  - moc
+  - overview
+status: 🚧 В разработке
 ---
 
 #  02 MOC - Динамика
