@@ -2,7 +2,7 @@
 tags:
   - MOC
 created: 2024-12-18T14:47
-updated: 2024-12-18T19:24
+updated: 2024-12-20T17:57
 ---
 
 # 00 Физика (MOC)
