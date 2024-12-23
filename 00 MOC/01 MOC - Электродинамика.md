@@ -2,8 +2,8 @@
 tags:
   - moc
   - overview
-created: <% tp.date.now("YYYY-MM-DD") %>
-updated: 2024-12-20T18:25
+created: 2024-12-23
+updated: 2024-12-23T13:29
 status: 🚧 В разработке
 ---
 
