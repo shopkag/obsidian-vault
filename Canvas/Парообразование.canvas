@@ -1,458 +1,382 @@
 {
-  "nodes": [
-    {
-      "id": "ef7203bc9701762e",
-      "type": "text",
-      "text": "о",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -80,
-      "y": -1420,
-      "width": 60,
-      "height": 60
-    },
-    {
-      "id": "2da2dcc41b9258e2",
-      "type": "text",
-      "text": "Пар",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -200,
-      "y": -1420,
-      "width": 100,
-      "height": 60
-    },
-    {
-      "id": "7a20eaab6f3358ba",
-      "type": "text",
-      "text": "образование",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 0,
-      "y": -1420,
-      "width": 140,
-      "height": 60
-    },
-    {
-      "id": "ea546dade8f954d3",
-      "type": "text",
-      "text": "Парообразование",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -180,
-      "y": -1580,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "b6b7004aff71f0fe",
-      "type": "text",
-      "text": "то что образуется если вскипятить воду",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -500,
-      "y": -1300,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "42c6cba58f8e279e",
-      "type": "text",
-      "text": "вскипятить",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -580,
-      "y": -1200,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "ca0edade2f457021",
-      "type": "text",
-      "text": "нагреть до высокой температуры",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -625,
-      "y": -1080,
-      "width": 250,
-      "height": 80
-    },
-    {
-      "id": "664c893361b9cb8f",
-      "type": "text",
-      "text": "что-то появляется",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 220,
-      "y": -1300,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "070776cd7f682448",
-      "type": "text",
-      "text": "а если не воду вскипятить?\nэто тоже будет пар?",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -205,
-      "y": -1170,
-      "width": 250,
-      "height": 100
-    },
-    {
-      "id": "6eb05c8eb3179809",
-      "type": "text",
-      "text": "есть же выражение “пары спирта”",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -125,
-      "y": -960,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "af8fb8779d185c96",
-      "type": "text",
-      "text": "то есть у спирта тоже будет пар",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -275,
-      "y": -800,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "bc84b24eb6caf914",
-      "type": "text",
-      "text": "есть пары ртути и нефти",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -80,
-      "y": -680,
-      "width": 250,
-      "height": 40
-    },
-    {
-      "id": "6474f916238dd075",
-      "type": "text",
-      "text": "если вскипятить спирт?",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -200,
-      "y": -1020,
-      "width": 250,
-      "height": 40
-    },
-    {
-      "id": "e551bd86442ea3c2",
-      "type": "text",
-      "text": "Нефть, ртуть, спирт, вода",
-      "styleAttributes": {},
-      "x": 260,
-      "y": -960,
-      "width": 260,
-      "height": 40
-    },
-    {
-      "id": "cb4af92322e8be6f",
-      "type": "text",
-      "text": "пар воды это газ, пар ртути это газ, пар спирта это газ",
-      "styleAttributes": {},
-      "x": 600,
-      "y": -820,
-      "width": 260,
-      "height": 100
-    },
-    {
-      "id": "f6f94dd76ba3944b",
-      "type": "text",
-      "text": "ПАР – ЭТО ГАЗ",
-      "styleAttributes": {},
-      "x": 900,
-      "y": -800,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "52bad6c1c4fbe0f1",
-      "type": "text",
-      "text": "ЖИДКОСТИ",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 900,
-      "y": -920,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "b00eafe4e618d56a",
-      "type": "text",
-      "text": " Образование газа из жидкости",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 1200,
-      "y": -860,
-      "width": 280,
-      "height": 60
-    },
-    {
-      "id": "831f3e756b8d5cf6",
-      "type": "file",
-      "file": "Заметки/Парообразование.md",
-      "styleAttributes": {},
-      "x": 1200,
-      "y": -640,
-      "width": 500,
-      "height": 400
-    }
-  ],
-  "edges": [
-    {
-      "id": "247e6e167f652f16",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "fromNode": "ea546dade8f954d3",
-      "fromSide": "bottom",
-      "toNode": "2da2dcc41b9258e2",
-      "toSide": "top"
-    },
-    {
-      "id": "16f4b1ab0f90a23c",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "fromNode": "ea546dade8f954d3",
-      "fromSide": "bottom",
-      "toNode": "ef7203bc9701762e",
-      "toSide": "top"
-    },
-    {
-      "id": "065745deac4de658",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "fromNode": "ea546dade8f954d3",
-      "fromSide": "bottom",
-      "toNode": "7a20eaab6f3358ba",
-      "toSide": "top"
-    },
-    {
-      "id": "08a8d01cca676e3e",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "fromNode": "b6b7004aff71f0fe",
-      "fromSide": "top",
-      "toNode": "2da2dcc41b9258e2",
-      "toSide": "bottom"
-    },
-    {
-      "id": "e80cfec552636715",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "fromNode": "b6b7004aff71f0fe",
-      "fromSide": "bottom",
-      "toNode": "42c6cba58f8e279e",
-      "toSide": "top"
-    },
-    {
-      "id": "4d01501175a041d2",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "fromNode": "ca0edade2f457021",
-      "fromSide": "top",
-      "toNode": "42c6cba58f8e279e",
-      "toSide": "bottom"
-    },
-    {
-      "id": "dd735d06294be02b",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "fromNode": "664c893361b9cb8f",
-      "fromSide": "top",
-      "toNode": "7a20eaab6f3358ba",
-      "toSide": "bottom"
-    },
-    {
-      "id": "3044b04871492163",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "fromNode": "b6b7004aff71f0fe",
-      "fromSide": "right",
-      "toNode": "070776cd7f682448",
-      "toSide": "top",
-      "toEnd": "none"
-    },
-    {
-      "id": "71153163dce57e79",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "fromNode": "6474f916238dd075",
-      "fromSide": "top",
-      "toNode": "070776cd7f682448",
-      "toSide": "bottom"
-    },
-    {
-      "id": "adeb0edd297e65cc",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "fromNode": "6eb05c8eb3179809",
-      "fromSide": "top",
-      "toNode": "6474f916238dd075",
-      "toSide": "bottom"
-    },
-    {
-      "id": "3c5e923598f00350",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "fromNode": "af8fb8779d185c96",
-      "fromSide": "top",
-      "toNode": "6eb05c8eb3179809",
-      "toSide": "bottom"
-    },
-    {
-      "id": "7431c4393e8b11ec",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "fromNode": "bc84b24eb6caf914",
-      "fromSide": "top",
-      "toNode": "af8fb8779d185c96",
-      "toSide": "bottom"
-    },
-    {
-      "id": "b99035506b113c61",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "fromNode": "6474f916238dd075",
-      "fromSide": "right",
-      "toNode": "e551bd86442ea3c2",
-      "toSide": "left"
-    },
-    {
-      "id": "eb9518cb644ed581",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "fromNode": "bc84b24eb6caf914",
-      "fromSide": "right",
-      "toNode": "e551bd86442ea3c2",
-      "toSide": "left"
-    },
-    {
-      "id": "93dc806f48255f53",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "fromNode": "070776cd7f682448",
-      "fromSide": "right",
-      "toNode": "e551bd86442ea3c2",
-      "toSide": "left"
-    },
-    {
-      "id": "d0b9b238c339755c",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "fromNode": "e551bd86442ea3c2",
-      "fromSide": "right",
-      "toNode": "52bad6c1c4fbe0f1",
-      "toSide": "left"
-    },
-    {
-      "id": "b05f94d789da7354",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "fromNode": "cb4af92322e8be6f",
-      "fromSide": "right",
-      "toNode": "f6f94dd76ba3944b",
-      "toSide": "left"
-    },
-    {
-      "id": "543a2573e53d4561",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "fromNode": "e551bd86442ea3c2",
-      "fromSide": "right",
-      "toNode": "cb4af92322e8be6f",
-      "toSide": "left"
-    },
-    {
-      "id": "07ff05bf23a0e1bf",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "fromNode": "ea546dade8f954d3",
-      "fromSide": "right",
-      "toNode": "b00eafe4e618d56a",
-      "toSide": "left"
-    },
-    {
-      "id": "24e2baca57391c2d",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "fromNode": "52bad6c1c4fbe0f1",
-      "fromSide": "right",
-      "toNode": "b00eafe4e618d56a",
-      "toSide": "left"
-    },
-    {
-      "id": "dd69aae039151f55",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "fromNode": "f6f94dd76ba3944b",
-      "fromSide": "right",
-      "toNode": "b00eafe4e618d56a",
-      "toSide": "left"
-    },
-    {
-      "id": "2fae52e287098c24",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "fromNode": "664c893361b9cb8f",
-      "fromSide": "left",
-      "toNode": "070776cd7f682448",
-      "toSide": "right"
-    },
-    {
-      "id": "06da05af19ebd006",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "fromNode": "831f3e756b8d5cf6",
-      "fromSide": "left",
-      "toNode": "b00eafe4e618d56a",
-      "toSide": "bottom"
-    }
-  ],
-  "metadata": {}
+	"nodes":[
+		{
+			"id":"ef7203bc9701762e",
+			"type":"text",
+			"text":"о",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-80,
+			"y":-1420,
+			"width":60,
+			"height":60
+		},
+		{
+			"id":"2da2dcc41b9258e2",
+			"type":"text",
+			"text":"Пар",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-200,
+			"y":-1420,
+			"width":100,
+			"height":60
+		},
+		{
+			"id":"7a20eaab6f3358ba",
+			"type":"text",
+			"text":"образование",
+			"styleAttributes":{"textAlign":"center"},
+			"x":0,
+			"y":-1420,
+			"width":140,
+			"height":60
+		},
+		{
+			"id":"ea546dade8f954d3",
+			"type":"text",
+			"text":"Парообразование",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-180,
+			"y":-1580,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"b6b7004aff71f0fe",
+			"type":"text",
+			"text":"то что образуется если вскипятить воду",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-500,
+			"y":-1300,
+			"width":250,
+			"height":60
+		},
+		{
+			"id":"42c6cba58f8e279e",
+			"type":"text",
+			"text":"вскипятить",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-580,
+			"y":-1200,
+			"width":250,
+			"height":60
+		},
+		{
+			"id":"ca0edade2f457021",
+			"type":"text",
+			"text":"нагреть до высокой температуры",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-625,
+			"y":-1080,
+			"width":250,
+			"height":80
+		},
+		{
+			"id":"664c893361b9cb8f",
+			"type":"text",
+			"text":"что-то появляется",
+			"styleAttributes":{"textAlign":"center"},
+			"x":220,
+			"y":-1300,
+			"width":250,
+			"height":60
+		},
+		{
+			"id":"070776cd7f682448",
+			"type":"text",
+			"text":"а если не воду вскипятить?\nэто тоже будет пар?",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-205,
+			"y":-1170,
+			"width":250,
+			"height":100
+		},
+		{
+			"id":"6eb05c8eb3179809",
+			"type":"text",
+			"text":"есть же выражение “пары спирта”",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-125,
+			"y":-960,
+			"width":250,
+			"height":60
+		},
+		{
+			"id":"af8fb8779d185c96",
+			"type":"text",
+			"text":"то есть у спирта тоже будет пар",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-275,
+			"y":-800,
+			"width":250,
+			"height":60
+		},
+		{
+			"id":"bc84b24eb6caf914",
+			"type":"text",
+			"text":"есть пары ртути и нефти",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-80,
+			"y":-680,
+			"width":250,
+			"height":40
+		},
+		{
+			"id":"6474f916238dd075",
+			"type":"text",
+			"text":"если вскипятить спирт?",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-200,
+			"y":-1020,
+			"width":250,
+			"height":40
+		},
+		{
+			"id":"e551bd86442ea3c2",
+			"type":"text",
+			"text":"Нефть, ртуть, спирт, вода",
+			"styleAttributes":{},
+			"x":260,
+			"y":-960,
+			"width":260,
+			"height":40
+		},
+		{
+			"id":"cb4af92322e8be6f",
+			"type":"text",
+			"text":"пар воды это газ, пар ртути это газ, пар спирта это газ",
+			"styleAttributes":{},
+			"x":600,
+			"y":-820,
+			"width":260,
+			"height":100
+		},
+		{
+			"id":"f6f94dd76ba3944b",
+			"type":"text",
+			"text":"ПАР – ЭТО ГАЗ",
+			"styleAttributes":{},
+			"x":900,
+			"y":-800,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"52bad6c1c4fbe0f1",
+			"type":"text",
+			"text":"ЖИДКОСТИ",
+			"styleAttributes":{"textAlign":"center"},
+			"x":900,
+			"y":-920,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"b00eafe4e618d56a",
+			"type":"text",
+			"text":" Образование газа из жидкости",
+			"styleAttributes":{"textAlign":"center"},
+			"x":1200,
+			"y":-860,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"831f3e756b8d5cf6",
+			"type":"file",
+			"file":"Заметки/Парообразование.md",
+			"styleAttributes":{},
+			"x":1200,
+			"y":-640,
+			"width":500,
+			"height":400
+		}
+	],
+	"edges":[
+		{
+			"id":"247e6e167f652f16",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"ea546dade8f954d3",
+			"fromSide":"bottom",
+			"toNode":"2da2dcc41b9258e2",
+			"toSide":"top"
+		},
+		{
+			"id":"16f4b1ab0f90a23c",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"ea546dade8f954d3",
+			"fromSide":"bottom",
+			"toNode":"ef7203bc9701762e",
+			"toSide":"top"
+		},
+		{
+			"id":"065745deac4de658",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"ea546dade8f954d3",
+			"fromSide":"bottom",
+			"toNode":"7a20eaab6f3358ba",
+			"toSide":"top"
+		},
+		{
+			"id":"08a8d01cca676e3e",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"b6b7004aff71f0fe",
+			"fromSide":"top",
+			"toNode":"2da2dcc41b9258e2",
+			"toSide":"bottom"
+		},
+		{
+			"id":"e80cfec552636715",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"b6b7004aff71f0fe",
+			"fromSide":"bottom",
+			"toNode":"42c6cba58f8e279e",
+			"toSide":"top"
+		},
+		{
+			"id":"4d01501175a041d2",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"ca0edade2f457021",
+			"fromSide":"top",
+			"toNode":"42c6cba58f8e279e",
+			"toSide":"bottom"
+		},
+		{
+			"id":"dd735d06294be02b",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"664c893361b9cb8f",
+			"fromSide":"top",
+			"toNode":"7a20eaab6f3358ba",
+			"toSide":"bottom"
+		},
+		{
+			"id":"3044b04871492163",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"b6b7004aff71f0fe",
+			"fromSide":"right",
+			"toNode":"070776cd7f682448",
+			"toSide":"top",
+			"toEnd":"none"
+		},
+		{
+			"id":"71153163dce57e79",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"6474f916238dd075",
+			"fromSide":"top",
+			"toNode":"070776cd7f682448",
+			"toSide":"bottom"
+		},
+		{
+			"id":"adeb0edd297e65cc",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"6eb05c8eb3179809",
+			"fromSide":"top",
+			"toNode":"6474f916238dd075",
+			"toSide":"bottom"
+		},
+		{
+			"id":"3c5e923598f00350",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"af8fb8779d185c96",
+			"fromSide":"top",
+			"toNode":"6eb05c8eb3179809",
+			"toSide":"bottom"
+		},
+		{
+			"id":"7431c4393e8b11ec",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"bc84b24eb6caf914",
+			"fromSide":"top",
+			"toNode":"af8fb8779d185c96",
+			"toSide":"bottom"
+		},
+		{
+			"id":"b99035506b113c61",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"6474f916238dd075",
+			"fromSide":"right",
+			"toNode":"e551bd86442ea3c2",
+			"toSide":"left"
+		},
+		{
+			"id":"eb9518cb644ed581",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"bc84b24eb6caf914",
+			"fromSide":"right",
+			"toNode":"e551bd86442ea3c2",
+			"toSide":"left"
+		},
+		{
+			"id":"93dc806f48255f53",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"070776cd7f682448",
+			"fromSide":"right",
+			"toNode":"e551bd86442ea3c2",
+			"toSide":"left"
+		},
+		{
+			"id":"d0b9b238c339755c",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"e551bd86442ea3c2",
+			"fromSide":"right",
+			"toNode":"52bad6c1c4fbe0f1",
+			"toSide":"left"
+		},
+		{
+			"id":"b05f94d789da7354",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"cb4af92322e8be6f",
+			"fromSide":"right",
+			"toNode":"f6f94dd76ba3944b",
+			"toSide":"left"
+		},
+		{
+			"id":"543a2573e53d4561",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"e551bd86442ea3c2",
+			"fromSide":"right",
+			"toNode":"cb4af92322e8be6f",
+			"toSide":"left"
+		},
+		{
+			"id":"07ff05bf23a0e1bf",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"ea546dade8f954d3",
+			"fromSide":"right",
+			"toNode":"b00eafe4e618d56a",
+			"toSide":"left"
+		},
+		{
+			"id":"24e2baca57391c2d",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"52bad6c1c4fbe0f1",
+			"fromSide":"right",
+			"toNode":"b00eafe4e618d56a",
+			"toSide":"left"
+		},
+		{
+			"id":"dd69aae039151f55",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"f6f94dd76ba3944b",
+			"fromSide":"right",
+			"toNode":"b00eafe4e618d56a",
+			"toSide":"left"
+		},
+		{
+			"id":"2fae52e287098c24",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"664c893361b9cb8f",
+			"fromSide":"left",
+			"toNode":"070776cd7f682448",
+			"toSide":"right"
+		},
+		{
+			"id":"06da05af19ebd006",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"831f3e756b8d5cf6",
+			"fromSide":"left",
+			"toNode":"b00eafe4e618d56a",
+			"toSide":"bottom"
+		}
+	],
+	"metadata":{}
 }

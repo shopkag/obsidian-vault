@@ -8,7 +8,7 @@ source:
 source-link: 
 tags: literature_note
 created: 2025-01-05T21:41
-updated: 2025-01-12T22:59
+updated: 2025-01-05T21:55
 ---
 
 # 📚 <% tp.file.title %>
@@ -21,7 +21,7 @@ updated: 2025-01-12T22:59
 * **Источник:** {{value: source}}
 * **🔗 Ссылка:** {{value: source-link}}
 * **Статус:** {{value: status}}
-* **🗓️ Дата ознакомления:** <font color=”green”> {{value: date-accessed}} </font>
+* **🗓️ Дата ознакомления:** {{value: date-accessed}}
 
 ## ✨ Основные тезисы
 
