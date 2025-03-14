@@ -9,7 +9,7 @@ source-link: https://vk.com/im/convo/248429761?entrypoint=list_all&w=wall-393770
 tags:
   - literature_note
 created: 2025-01-05T21:41
-updated: 2025-03-14T17:19
+updated: 2025-01-29T12:23
 ---
 
 # 📚 David Hodgson, VALVe, Prima Games - Raising The Bar: Uncorrected Proof
