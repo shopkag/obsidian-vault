@@ -9,7 +9,7 @@ source-link: https://vk.com/im/convo/248429761?entrypoint=list_all&w=wall-393770
 tags:
   - literature_note
 created: 2025-01-05T21:41
-updated: 2025-04-18T18:41
+updated: 2025-04-18T21:42
 ---
 
 # 📚 David Hodgson, VALVe, Prima Games - Raising The Bar: Uncorrected Proof
@@ -24,7 +24,7 @@ updated: 2025-04-18T18:41
 * **Статус:** 🚧 В разработке
 * **Дата ознакомления:** <font color=”green”> 05.01.2025 </font>
 
-- **МОС:** [[00 MOC/Книги]]
+- **МОС:** [[00 Map Of Content/Книги]]
 ## ✨ Основные тезисы
 
 
